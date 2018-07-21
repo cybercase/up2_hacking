@@ -1,0 +1,788 @@
+07-13 22:54:13.904  23254-23265/com.jawbone.upopen D/BluetoothGatt﹕ onGetService() - Device=E9:7C:2F:27:15:00 UUID=00001800-0000-1000-8000-00805f9b34fb
+07-13 22:54:13.904  23254-23266/com.jawbone.upopen D/BluetoothGatt﹕ onGetService() - Device=E9:7C:2F:27:15:00 UUID=00001801-0000-1000-8000-00805f9b34fb
+07-13 22:54:13.904  23254-23265/com.jawbone.upopen D/BluetoothGatt﹕ onGetService() - Device=E9:7C:2F:27:15:00 UUID=151c0000-4580-4111-9ca1-5056f3454fbc
+07-13 22:54:13.909  23254-23266/com.jawbone.upopen D/BluetoothGatt﹕ onGetService() - Device=E9:7C:2F:27:15:00 UUID=151c1000-4580-4111-9ca1-5056f3454fbc
+07-13 22:54:13.909  23254-23265/com.jawbone.upopen D/BluetoothGatt﹕ onGetService() - Device=E9:7C:2F:27:15:00 UUID=151c2000-4580-4111-9ca1-5056f3454fbc
+07-13 22:54:13.914  23254-23266/com.jawbone.upopen D/BluetoothGatt﹕ onGetService() - Device=E9:7C:2F:27:15:00 UUID=151c3000-4580-4111-9ca1-5056f3454fbc
+07-13 22:54:13.914  23254-23265/com.jawbone.upopen D/BluetoothGatt﹕ onGetService() - Device=E9:7C:2F:27:15:00 UUID=0000180a-0000-1000-8000-00805f9b34fb
+07-13 22:54:13.919  23254-23266/com.jawbone.upopen D/BluetoothGatt﹕ onGetCharacteristic() - Device=E9:7C:2F:27:15:00 UUID=00002a00-0000-1000-8000-00805f9b34fb
+07-13 22:54:13.929  23254-23265/com.jawbone.upopen D/BluetoothGatt﹕ onGetCharacteristic() - Device=E9:7C:2F:27:15:00 UUID=00002a01-0000-1000-8000-00805f9b34fb
+07-13 22:54:13.929  23254-23266/com.jawbone.upopen D/BluetoothGatt﹕ onGetCharacteristic() - Device=E9:7C:2F:27:15:00 UUID=00002a04-0000-1000-8000-00805f9b34fb
+07-13 22:54:13.934  23254-23265/com.jawbone.upopen D/BluetoothGatt﹕ onGetCharacteristic() - Device=E9:7C:2F:27:15:00 UUID=00002a05-0000-1000-8000-00805f9b34fb
+07-13 22:54:13.949  23254-23266/com.jawbone.upopen D/BluetoothGatt﹕ onGetCharacteristic() - Device=E9:7C:2F:27:15:00 UUID=151c0002-4580-4111-9ca1-5056f3454fbc
+07-13 22:54:13.954  23254-23265/com.jawbone.upopen D/BluetoothGatt﹕ onGetCharacteristic() - Device=E9:7C:2F:27:15:00 UUID=151c0001-4580-4111-9ca1-5056f3454fbc
+07-13 22:54:13.959  23254-23266/com.jawbone.upopen D/BluetoothGatt﹕ onGetCharacteristic() - Device=E9:7C:2F:27:15:00 UUID=151c1001-4580-4111-9ca1-5056f3454fbc
+07-13 22:54:13.959  23254-23265/com.jawbone.upopen D/BluetoothGatt﹕ onGetCharacteristic() - Device=E9:7C:2F:27:15:00 UUID=151c1002-4580-4111-9ca1-5056f3454fbc
+07-13 22:54:13.964  23254-23266/com.jawbone.upopen D/BluetoothGatt﹕ onGetCharacteristic() - Device=E9:7C:2F:27:15:00 UUID=151c1003-4580-4111-9ca1-5056f3454fbc
+07-13 22:54:13.969  23254-23265/com.jawbone.upopen D/BluetoothGatt﹕ onGetCharacteristic() - Device=E9:7C:2F:27:15:00 UUID=151c2001-4580-4111-9ca1-5056f3454fbc
+07-13 22:54:13.969  23254-23266/com.jawbone.upopen D/BluetoothGatt﹕ onGetCharacteristic() - Device=E9:7C:2F:27:15:00 UUID=151c2002-4580-4111-9ca1-5056f3454fbc
+07-13 22:54:13.979  23254-23265/com.jawbone.upopen D/BluetoothGatt﹕ onGetCharacteristic() - Device=E9:7C:2F:27:15:00 UUID=151c3001-4580-4111-9ca1-5056f3454fbc
+07-13 22:54:13.979  23254-23266/com.jawbone.upopen D/BluetoothGatt﹕ onGetCharacteristic() - Device=E9:7C:2F:27:15:00 UUID=151c3002-4580-4111-9ca1-5056f3454fbc
+07-13 22:54:13.984  23254-23265/com.jawbone.upopen D/BluetoothGatt﹕ onGetCharacteristic() - Device=E9:7C:2F:27:15:00 UUID=00002a24-0000-1000-8000-00805f9b34fb
+07-13 22:54:13.989  23254-23266/com.jawbone.upopen D/BluetoothGatt﹕ onGetCharacteristic() - Device=E9:7C:2F:27:15:00 UUID=00002a25-0000-1000-8000-00805f9b34fb
+07-13 22:54:13.989  23254-23265/com.jawbone.upopen D/BluetoothGatt﹕ onGetCharacteristic() - Device=E9:7C:2F:27:15:00 UUID=00002a26-0000-1000-8000-00805f9b34fb
+07-13 22:54:13.994  23254-23266/com.jawbone.upopen D/BluetoothGatt﹕ onGetCharacteristic() - Device=E9:7C:2F:27:15:00 UUID=00002a29-0000-1000-8000-00805f9b34fb
+07-13 22:54:13.994  23254-23265/com.jawbone.upopen D/BluetoothGatt﹕ onGetCharacteristic() - Device=E9:7C:2F:27:15:00 UUID=00002a28-0000-1000-8000-00805f9b34fb
+07-13 22:54:13.994  23254-23266/com.jawbone.upopen D/BluetoothGatt﹕ onGetCharacteristic() - Device=E9:7C:2F:27:15:00 UUID=00002a23-0000-1000-8000-00805f9b34fb
+07-13 22:54:14.004  23254-23265/com.jawbone.upopen D/BluetoothGatt﹕ onGetDescriptor() - Device=E9:7C:2F:27:15:00 UUID=00002902-0000-1000-8000-00805f9b34fb
+07-13 22:54:14.009  23254-23266/com.jawbone.upopen D/BluetoothGatt﹕ onGetDescriptor() - Device=E9:7C:2F:27:15:00 UUID=00002902-0000-1000-8000-00805f9b34fb
+07-13 22:54:14.009  23254-23265/com.jawbone.upopen D/BluetoothGatt﹕ onGetDescriptor() - Device=E9:7C:2F:27:15:00 UUID=00002902-0000-1000-8000-00805f9b34fb
+07-13 22:54:14.019  23254-23266/com.jawbone.upopen D/BluetoothGatt﹕ onGetDescriptor() - Device=E9:7C:2F:27:15:00 UUID=00002902-0000-1000-8000-00805f9b34fb
+07-13 22:54:14.019  23254-23265/com.jawbone.upopen D/BluetoothGatt﹕ onGetDescriptor() - Device=E9:7C:2F:27:15:00 UUID=00002902-0000-1000-8000-00805f9b34fb
+07-13 22:54:14.024  23254-23266/com.jawbone.upopen D/BluetoothGatt﹕ onGetDescriptor() - Device=E9:7C:2F:27:15:00 UUID=00002903-0000-1000-8000-00805f9b34fb
+07-13 22:54:14.029  23254-23265/com.jawbone.upopen D/BluetoothGatt﹕ onSearchComplete() = Device=E9:7C:2F:27:15:00 Status=0
+07-13 22:54:14.029  23254-23265/com.jawbone.upopen I/UPOPEN﹕ JawboneDevice >>> onServicesDiscovered > status: 0
+07-13 22:54:14.029  23254-23265/com.jawbone.upopen D/UPOPEN﹕ JawboneDevice >>> Services discovered
+07-13 22:54:14.029  23254-23265/com.jawbone.upopen D/UPOPEN﹕ JawboneDevice >>> onServicesDiscovered > not registered: 00001800-0000-1000-8000-00805f9b34fb
+07-13 22:54:14.029  23254-23265/com.jawbone.upopen D/UPOPEN﹕ JawboneDevice >>> onServicesDiscovered > not registered: 00001801-0000-1000-8000-00805f9b34fb
+07-13 22:54:14.029  23254-23265/com.jawbone.upopen D/UPOPEN﹕ ControlService >>> onServicesDiscovered > service: ControlService
+07-13 22:54:14.029  23254-23265/com.jawbone.upopen D/UPOPEN﹕ ControlService >>> 	onServicesDiscovered > characteristic: k
+07-13 22:54:14.029  23254-23265/com.jawbone.upopen D/UPOPEN﹕ ControlService >>> 	onServicesDiscovered > properties: READ, WRITE,
+07-13 22:54:14.029  23254-23265/com.jawbone.upopen D/UPOPEN﹕ ControlService >>> 	onServicesDiscovered > characteristic: l
+07-13 22:54:14.029  23254-23265/com.jawbone.upopen D/UPOPEN﹕ ControlService >>> 	onServicesDiscovered > properties: READ, WRITE,
+07-13 22:54:14.029  23254-23265/com.jawbone.upopen D/UPOPEN﹕ StreamService >>> onServicesDiscovered > service: StreamService
+07-13 22:54:14.034  23254-23290/com.jawbone.upopen D/BluetoothGatt﹕ readCharacteristic() - uuid: 151c0002-4580-4111-9ca1-5056f3454fbc
+07-13 22:54:14.034  23254-23290/com.jawbone.upopen E/UPOPEN﹕ JawboneDevice >>> lastReadStatus 1 > -1
+07-13 22:54:14.034  23254-23265/com.jawbone.upopen D/UPOPEN﹕ StreamService >>> 	onServicesDiscovered > characteristic: m
+07-13 22:54:14.034  23254-23265/com.jawbone.upopen D/UPOPEN﹕ StreamService >>> 	onServicesDiscovered > properties: READ, WRITE,
+07-13 22:54:14.039  23254-23265/com.jawbone.upopen D/UPOPEN﹕ StreamService >>> 	onServicesDiscovered > characteristic: n
+07-13 22:54:14.039  23254-23265/com.jawbone.upopen D/UPOPEN﹕ StreamService >>> 	onServicesDiscovered > properties: READ, INDICATE,
+07-13 22:54:14.039  23254-23265/com.jawbone.upopen D/UPOPEN﹕ StreamService >>> 	onServicesDiscovered > characteristic: 151c1003-4580-4111-9ca1-5056f3454fbc
+07-13 22:54:14.039  23254-23265/com.jawbone.upopen D/UPOPEN﹕ StreamService >>> 	onServicesDiscovered > properties: READ, NOTIFY,
+07-13 22:54:14.039  23254-23265/com.jawbone.upopen D/UPOPEN﹕ JawboneDevice >>> onServicesDiscovered > not registered: 151c2000-4580-4111-9ca1-5056f3454fbc
+07-13 22:54:14.039  23254-23265/com.jawbone.upopen D/UPOPEN﹕ OtaService >>> onServicesDiscovered > service: OtaService
+07-13 22:54:14.039  23254-23265/com.jawbone.upopen D/UPOPEN﹕ OtaService >>> 	onServicesDiscovered > characteristic: m
+07-13 22:54:14.039  23254-23265/com.jawbone.upopen D/UPOPEN﹕ OtaService >>> 	onServicesDiscovered > properties: READ, WRITE_NO_RESPONSE,
+07-13 22:54:14.044  23254-23265/com.jawbone.upopen D/UPOPEN﹕ OtaService >>> 	onServicesDiscovered > characteristic: n
+07-13 22:54:14.044  23254-23265/com.jawbone.upopen D/UPOPEN﹕ OtaService >>> 	onServicesDiscovered > properties: READ, NOTIFY,
+07-13 22:54:14.044  23254-23265/com.jawbone.upopen D/UPOPEN﹕ DeviceInfoService >>> onServicesDiscovered > service: DeviceInfoService
+07-13 22:54:14.044  23254-23265/com.jawbone.upopen D/UPOPEN﹕ DeviceInfoService >>> 	onServicesDiscovered > characteristic: l
+07-13 22:54:14.044  23254-23265/com.jawbone.upopen D/UPOPEN﹕ DeviceInfoService >>> 	onServicesDiscovered > properties: READ,
+07-13 22:54:14.044  23254-23265/com.jawbone.upopen D/UPOPEN﹕ DeviceInfoService >>> 	onServicesDiscovered > characteristic: p
+07-13 22:54:14.044  23254-23265/com.jawbone.upopen D/UPOPEN﹕ DeviceInfoService >>> 	onServicesDiscovered > properties: READ,
+07-13 22:54:14.044  23254-23265/com.jawbone.upopen D/UPOPEN﹕ DeviceInfoService >>> 	onServicesDiscovered > characteristic: m
+07-13 22:54:14.044  23254-23265/com.jawbone.upopen D/UPOPEN﹕ DeviceInfoService >>> 	onServicesDiscovered > properties: READ,
+07-13 22:54:14.044  23254-23265/com.jawbone.upopen D/UPOPEN﹕ DeviceInfoService >>> 	onServicesDiscovered > characteristic: o
+07-13 22:54:14.044  23254-23265/com.jawbone.upopen D/UPOPEN﹕ DeviceInfoService >>> 	onServicesDiscovered > properties: READ,
+07-13 22:54:14.044  23254-23265/com.jawbone.upopen D/UPOPEN﹕ DeviceInfoService >>> 	onServicesDiscovered > characteristic: n
+07-13 22:54:14.044  23254-23265/com.jawbone.upopen D/UPOPEN﹕ DeviceInfoService >>> 	onServicesDiscovered > properties: READ,
+07-13 22:54:14.044  23254-23265/com.jawbone.upopen D/UPOPEN﹕ DeviceInfoService >>> 	onServicesDiscovered > characteristic: 00002a23-0000-1000-8000-00805f9b34fb
+07-13 22:54:14.049  23254-23265/com.jawbone.upopen D/UPOPEN﹕ DeviceInfoService >>> 	onServicesDiscovered > properties: BROADCAST, READ,
+07-13 22:54:14.144  23254-23266/com.jawbone.upopen D/BluetoothGatt﹕ onCharacteristicRead() - Device=E9:7C:2F:27:15:00 UUID=151c0002-4580-4111-9ca1-5056f3454fbc Status=0
+07-13 22:54:14.144  23254-23266/com.jawbone.upopen D/UPOPEN﹕ ControlService >>> onCharacteristicRead > 
+	k >> (151c0002-4580-4111-9ca1-5056f3454fbc) > 00
+07-13 22:54:14.144  23254-23266/com.jawbone.upopen E/UPOPEN﹕ JawboneDevice >>> lastReadStatus 2 > 0
+07-13 22:54:14.144  23254-23290/com.jawbone.upopen E/UPOPEN﹕ JawboneDevice >>> lastReadStatus 3 > 0
+07-13 22:54:14.144  23254-23290/com.jawbone.upopen D/BluetoothGatt﹕ setCharacteristicNotification() - uuid: 151c1002-4580-4111-9ca1-5056f3454fbc enable: true
+07-13 22:54:14.149  23254-23290/com.jawbone.upopen E/UPOPEN﹕ JawboneDevice >>> lastDescriptorWriteStatus 1 > -1
+07-13 22:54:14.149  23254-23290/com.jawbone.upopen D/BluetoothGatt﹕ writeDescriptor() - uuid: 00002902-0000-1000-8000-00805f9b34fb
+07-13 22:54:14.239  23254-23265/com.jawbone.upopen D/BluetoothGatt﹕ onDescriptorWrite() - Device=E9:7C:2F:27:15:00 UUID=151c1002-4580-4111-9ca1-5056f3454fbc
+07-13 22:54:14.239  23254-23265/com.jawbone.upopen E/UPOPEN﹕ JawboneDevice >>> lastDescriptorWriteStatus 2 > 0
+07-13 22:54:14.239  23254-23290/com.jawbone.upopen E/UPOPEN﹕ JawboneDevice >>> lastDescriptorWriteStatus 3 > 0
+07-13 22:54:14.239  23254-23290/com.jawbone.upopen I/UPOPEN﹕ JawboneDevice >>> enableIndication > enabled
+07-13 22:54:14.239  23254-23290/com.jawbone.upopen W/UPOPEN﹕ SpartaDevice >>> doProtocolVersion > StreamService = true, DeviceInfoService = false
+07-13 22:54:14.244  23254-23290/com.jawbone.upopen I/UPOPEN﹕ StreamService >>> StreamService > 
+	m >> (151c1001-4580-4111-9ca1-5056f3454fbc) > null
+	n >> (151c1002-4580-4111-9ca1-5056f3454fbc) > null
+07-13 22:54:14.244  23254-23290/com.jawbone.upopen D/BluetoothGatt﹕ setCharacteristicNotification() - uuid: 151c3002-4580-4111-9ca1-5056f3454fbc enable: true
+07-13 22:54:14.244  23254-23290/com.jawbone.upopen E/UPOPEN﹕ JawboneDevice >>> lastDescriptorWriteStatus 1 > -1
+07-13 22:54:14.244  23254-23290/com.jawbone.upopen D/BluetoothGatt﹕ writeDescriptor() - uuid: 00002902-0000-1000-8000-00805f9b34fb
+07-13 22:54:14.344  23254-23266/com.jawbone.upopen D/BluetoothGatt﹕ onDescriptorWrite() - Device=E9:7C:2F:27:15:00 UUID=151c3002-4580-4111-9ca1-5056f3454fbc
+07-13 22:54:14.344  23254-23266/com.jawbone.upopen E/UPOPEN﹕ JawboneDevice >>> lastDescriptorWriteStatus 2 > 0
+07-13 22:54:14.349  23254-23290/com.jawbone.upopen E/UPOPEN﹕ JawboneDevice >>> lastDescriptorWriteStatus 3 > 0
+07-13 22:54:14.349  23254-23290/com.jawbone.upopen I/UPOPEN﹕ JawboneDevice >>> enableNotification > enabled
+07-13 22:54:14.349  23254-23290/com.jawbone.upopen D/BluetoothGatt﹕ readCharacteristic() - uuid: 00002a25-0000-1000-8000-00805f9b34fb
+07-13 22:54:14.349  23254-23290/com.jawbone.upopen E/UPOPEN﹕ JawboneDevice >>> lastReadStatus 1 > -1
+07-13 22:54:14.439  23254-23265/com.jawbone.upopen D/BluetoothGatt﹕ onCharacteristicRead() - Device=E9:7C:2F:27:15:00 UUID=00002a25-0000-1000-8000-00805f9b34fb Status=0
+07-13 22:54:14.439  23254-23265/com.jawbone.upopen D/UPOPEN﹕ DeviceInfoService >>> onCharacteristicRead > 
+	p >> (00002a25-0000-1000-8000-00805f9b34fb) > 71250504E06BF038
+07-13 22:54:14.439  23254-23265/com.jawbone.upopen E/UPOPEN﹕ JawboneDevice >>> lastReadStatus 2 > 0
+07-13 22:54:14.439  23254-23290/com.jawbone.upopen E/UPOPEN﹕ JawboneDevice >>> lastReadStatus 3 > 0
+07-13 22:54:14.439  23254-23290/com.jawbone.upopen D/BluetoothGatt﹕ readCharacteristic() - uuid: 00002a26-0000-1000-8000-00805f9b34fb
+07-13 22:54:14.444  23254-23290/com.jawbone.upopen E/UPOPEN﹕ JawboneDevice >>> lastReadStatus 1 > -1
+07-13 22:54:14.534  23254-23266/com.jawbone.upopen D/BluetoothGatt﹕ onCharacteristicRead() - Device=E9:7C:2F:27:15:00 UUID=00002a26-0000-1000-8000-00805f9b34fb Status=0
+07-13 22:54:14.534  23254-23266/com.jawbone.upopen D/UPOPEN﹕ DeviceInfoService >>> onCharacteristicRead > 
+	m >> (00002a26-0000-1000-8000-00805f9b34fb) > 1.1.20-3b183fae-jenk
+07-13 22:54:14.534  23254-23266/com.jawbone.upopen E/UPOPEN﹕ JawboneDevice >>> lastReadStatus 2 > 0
+07-13 22:54:14.534  23254-23290/com.jawbone.upopen E/UPOPEN﹕ JawboneDevice >>> lastReadStatus 3 > 0
+07-13 22:54:14.534  23254-23290/com.jawbone.upopen D/BluetoothGatt﹕ readCharacteristic() - uuid: 00002a24-0000-1000-8000-00805f9b34fb
+07-13 22:54:14.534  23254-23290/com.jawbone.upopen E/UPOPEN﹕ JawboneDevice >>> lastReadStatus 1 > -1
+07-13 22:54:14.634  23254-23265/com.jawbone.upopen D/BluetoothGatt﹕ onCharacteristicRead() - Device=E9:7C:2F:27:15:00 UUID=00002a24-0000-1000-8000-00805f9b34fb Status=0
+07-13 22:54:14.639  23254-23265/com.jawbone.upopen D/UPOPEN﹕ DeviceInfoService >>> onCharacteristicRead > 
+	l >> (00002a24-0000-1000-8000-00805f9b34fb) > UP2��
+07-13 22:54:14.639  23254-23265/com.jawbone.upopen E/UPOPEN﹕ JawboneDevice >>> lastReadStatus 2 > 0
+07-13 22:54:14.639  23254-23290/com.jawbone.upopen E/UPOPEN﹕ JawboneDevice >>> lastReadStatus 3 > 0
+07-13 22:54:14.639  23254-23290/com.jawbone.upopen D/BluetoothGatt﹕ readCharacteristic() - uuid: 00002a28-0000-1000-8000-00805f9b34fb
+07-13 22:54:14.644  23254-23290/com.jawbone.upopen E/UPOPEN﹕ JawboneDevice >>> lastReadStatus 1 > -1
+07-13 22:54:14.729  23254-23266/com.jawbone.upopen D/BluetoothGatt﹕ onCharacteristicRead() - Device=E9:7C:2F:27:15:00 UUID=00002a28-0000-1000-8000-00805f9b34fb Status=0
+07-13 22:54:14.729  23254-23266/com.jawbone.upopen D/UPOPEN﹕ DeviceInfoService >>> onCharacteristicRead > 
+	n >> (00002a28-0000-1000-8000-00805f9b34fb) > 1.1.20-3b183fae-jenk
+07-13 22:54:14.729  23254-23266/com.jawbone.upopen E/UPOPEN﹕ JawboneDevice >>> lastReadStatus 2 > 0
+07-13 22:54:14.729  23254-23290/com.jawbone.upopen E/UPOPEN﹕ JawboneDevice >>> lastReadStatus 3 > 0
+07-13 22:54:14.729  23254-23290/com.jawbone.upopen D/BluetoothGatt﹕ readCharacteristic() - uuid: 00002a29-0000-1000-8000-00805f9b34fb
+07-13 22:54:14.729  23254-23290/com.jawbone.upopen E/UPOPEN﹕ JawboneDevice >>> lastReadStatus 1 > -1
+07-13 22:54:14.824  23254-23265/com.jawbone.upopen D/BluetoothGatt﹕ onCharacteristicRead() - Device=E9:7C:2F:27:15:00 UUID=00002a29-0000-1000-8000-00805f9b34fb Status=0
+07-13 22:54:14.829  23254-23265/com.jawbone.upopen D/UPOPEN﹕ DeviceInfoService >>> onCharacteristicRead > 
+	o >> (00002a29-0000-1000-8000-00805f9b34fb) > Jawbone��
+07-13 22:54:14.829  23254-23265/com.jawbone.upopen I/UPOPEN﹕ DeviceManager >>> RawDeviceEvent >>> DEVICE_INFO_READ
+07-13 22:54:14.829  23254-23265/com.jawbone.upopen E/UPOPEN﹕ JawboneDevice >>> lastReadStatus 2 > 0
+07-13 22:54:14.829  23254-23290/com.jawbone.upopen E/UPOPEN﹕ JawboneDevice >>> lastReadStatus 3 > 0
+07-13 22:54:14.829  23254-23289/com.jawbone.upopen I/UPOPEN﹕ DeviceManager >>> onDeviceEvent >>> what > DEVICE_INFO_READ
+07-13 22:54:14.829  23254-23289/com.jawbone.upopen I/UPOPEN﹕ DeviceManager >>> onDeviceEvent >>> 	where > com.jawbone.up.bands.BandManager$5
+07-13 22:54:14.834  23254-23289/com.jawbone.upopen D/UPOPEN﹕ TABLE common_device_info >>> Failed to query table SELECT * FROM common_device_info WHERE ((userXid = ? OR userXid = ?) AND serialHash = ?) ORDER BY _id ASC
+07-13 22:54:14.834  23254-23289/com.jawbone.upopen D/UPOPEN﹕ Band >>> createFrom > firmwareVersion = 1.1.20
+07-13 22:54:14.839  23254-23290/com.jawbone.upopen I/UPOPEN﹕ StreamService >>> writeOutputStream > ProtocolVersionRequest > 
+	f >> (0, 63, 0) > 0x00
+	g >> (1, 63, 0) > 0x00
+	h >> (2, 63, 0) > 0xfa
+	i >> (3, 63, 0) > 0x00
+	d >> (4, 63, 0) > null
+07-13 22:54:14.844  23254-23290/com.jawbone.upopen D/BluetoothGatt﹕ writeCharacteristic() - uuid: 151c1001-4580-4111-9ca1-5056f3454fbc
+07-13 22:54:14.844  23254-23289/com.jawbone.upopen D/UPOPEN﹕ BandManager >>> Serial no =71250504E06BF038
+07-13 22:54:14.844  23254-23289/com.jawbone.upopen D/UPOPEN﹕ BandManager >>> SLP band char =8
+07-13 22:54:14.844  23254-23289/com.jawbone.upopen D/UPOPEN﹕ BandManager >>> Serial no =71250504E06BF038
+07-13 22:54:14.844  23254-23289/com.jawbone.upopen D/UPOPEN﹕ BandManager >>> SLP band char =8
+07-13 22:54:14.849  23254-23289/com.jawbone.upopen W/UPOPEN﹕ Band >>> saveToDisk > Not allowed
+07-13 22:54:14.849  23254-23289/com.jawbone.upopen I/UPOPEN﹕ BandSparta >>> New band created!
+07-13 22:54:14.914  23254-23289/com.jawbone.upopen D/UPOPEN﹕ BandManager >>> UP3SpartaEvent: DEVICE_INFO_READ
+07-13 22:54:14.924  23254-23266/com.jawbone.upopen D/BluetoothGatt﹕ onCharacteristicWrite() - Device=E9:7C:2F:27:15:00 UUID=151c1001-4580-4111-9ca1-5056f3454fbc Status=0
+07-13 22:54:14.924  23254-23266/com.jawbone.upopen E/UPOPEN﹕ JawboneDevice >>> lastWriteStatus 2 > 0
+07-13 22:54:14.929  23254-23290/com.jawbone.upopen E/UPOPEN﹕ JawboneDevice >>> lastWriteStatus 3 > 0
+07-13 22:54:14.929  23254-23290/com.jawbone.upopen W/UPOPEN﹕ StreamService >>> writeOutputStream > Transaction is null
+07-13 22:54:14.929  23254-23265/com.jawbone.upopen D/BluetoothGatt﹕ onNotify() - Device=E9:7C:2F:27:15:00 UUID=151c1002-4580-4111-9ca1-5056f3454fbc
+07-13 22:54:14.929  23254-23265/com.jawbone.upopen D/UPOPEN﹕ StreamService >>> onCharacteristicChanged > 
+	n >> (151c1002-4580-4111-9ca1-5056f3454fbc) > 00FE00FA096F1F00002909010100
+07-13 22:54:14.944  23254-24902/com.jawbone.upopen D/UPOPEN﹕ StreamService >>> readFromDevice > ProtocolVersion > 
+	f >> (0, 63, 0) > 0x00
+	g >> (1, 63, 0) > 0x00
+	h >> (2, 63, 0) > 0xfa
+	i >> (3, 63, 0) > 0x09
+	c >> (4, 63, 0) > 8047
+	k >> (4, 63, 0) > 6F1F00002909010100
+	d >> (6, 63, 0) > 0
+	e >> (8, 63, 0) > 2345
+07-13 22:54:14.944  23254-24902/com.jawbone.upopen D/UPOPEN﹕ SpartaDevice >>> Processing protocol version
+07-13 22:54:14.944  23254-24902/com.jawbone.upopen I/UPOPEN﹕ DeviceManager >>> RawDeviceEvent >>> PROTOCOL_VERSION_READ
+07-13 22:54:14.944  23254-24902/com.jawbone.upopen D/UPOPEN﹕ JawboneDevice >>> AppCONNECT: pair
+07-13 22:54:14.949  23254-23289/com.jawbone.upopen I/UPOPEN﹕ DeviceManager >>> onDeviceEvent >>> what > PROTOCOL_VERSION_READ
+07-13 22:54:14.949  23254-23289/com.jawbone.upopen I/UPOPEN﹕ DeviceManager >>> onDeviceEvent >>> 	where > com.jawbone.up.bands.BandManager$5
+07-13 22:54:14.949  23254-23289/com.jawbone.upopen D/UPOPEN﹕ TABLE common_device_info >>> Failed to query table SELECT * FROM common_device_info WHERE ((userXid = ? OR userXid = ?) AND serialHash = ?) ORDER BY _id ASC
+07-13 22:54:14.954  23254-23289/com.jawbone.upopen D/UPOPEN﹕ Band >>> createFrom > firmwareVersion = 1.1.20
+07-13 22:54:14.954  23254-23289/com.jawbone.upopen D/UPOPEN﹕ BandManager >>> Serial no =71250504E06BF038
+07-13 22:54:14.954  23254-23289/com.jawbone.upopen D/UPOPEN﹕ BandManager >>> SLP band char =8
+07-13 22:54:14.954  23254-23290/com.jawbone.upopen I/UPOPEN﹕ StreamService >>> writeOutputStream > KeyExchangeRequest > 
+	f >> (0, 63, 0) > 0x03
+	g >> (1, 63, 0) > 0x00
+	h >> (2, 63, 0) > 0xf9
+	i >> (3, 63, 0) > 0x10
+	d >> (4, 63, 0) > 80A0735CBCD4610B29D36367D924CA84
+07-13 22:54:14.954  23254-23289/com.jawbone.upopen I/UPOPEN﹕ BandManager >>> createBand > Got band from cache: BandSparta
+07-13 22:54:14.959  23254-23290/com.jawbone.upopen D/BluetoothGatt﹕ writeCharacteristic() - uuid: 151c1001-4580-4111-9ca1-5056f3454fbc
+07-13 22:54:14.964  23254-23289/com.jawbone.upopen D/UPOPEN﹕ TABLE common_device_info >>> Failed to query table SELECT * FROM common_device_info WHERE ((userXid = ? OR userXid = ?) AND serialHash = ?) ORDER BY _id ASC
+07-13 22:54:14.964  23254-23289/com.jawbone.upopen D/UPOPEN﹕ BandManager >>> UP3SpartaEvent: PROTOCOL_VERSION_READ
+07-13 22:54:15.019  23254-23266/com.jawbone.upopen D/BluetoothGatt﹕ onCharacteristicWrite() - Device=E9:7C:2F:27:15:00 UUID=151c1001-4580-4111-9ca1-5056f3454fbc Status=0
+07-13 22:54:15.019  23254-23266/com.jawbone.upopen E/UPOPEN﹕ JawboneDevice >>> lastWriteStatus 2 > 0
+07-13 22:54:15.019  23254-23290/com.jawbone.upopen E/UPOPEN﹕ JawboneDevice >>> lastWriteStatus 3 > 0
+07-13 22:54:15.019  23254-23290/com.jawbone.upopen I/UPOPEN﹕ DeviceManager >>> RawDeviceEvent >>> PAIRING
+07-13 22:54:15.019  23254-23289/com.jawbone.upopen I/UPOPEN﹕ DeviceManager >>> onDeviceEvent >>> what > PAIRING
+07-13 22:54:15.019  23254-23289/com.jawbone.upopen I/UPOPEN﹕ DeviceManager >>> onDeviceEvent >>> 	where > com.jawbone.up.bands.BandManager$5
+07-13 22:54:15.024  23254-23290/com.jawbone.upopen D/UPOPEN﹕ TABLE common_device_info >>> Failed to query table SELECT * FROM common_device_info ORDER BY _id DESC
+07-13 22:54:15.029  23254-23290/com.jawbone.upopen D/UPOPEN﹕ TABLE common_device_info >>> Failed to query table SELECT * FROM common_device_info WHERE ((userXid = ? OR userXid = ?) AND serialHash = ?) ORDER BY _id ASC
+07-13 22:54:15.029  23254-23290/com.jawbone.upopen D/UPOPEN﹕ DeviceInfo >>> DeviceInfo constructor with JawboneDevice argument called
+07-13 22:54:15.029  23254-23289/com.jawbone.upopen D/UPOPEN﹕ TABLE common_device_info >>> Failed to query table SELECT * FROM common_device_info WHERE ((userXid = ? OR userXid = ?) AND serialHash = ?) ORDER BY _id ASC
+07-13 22:54:15.029  23254-23289/com.jawbone.upopen D/UPOPEN﹕ Band >>> createFrom > firmwareVersion = 1.1.20
+07-13 22:54:15.029  23254-23289/com.jawbone.upopen D/UPOPEN﹕ BandManager >>> Serial no =71250504E06BF038
+07-13 22:54:15.029  23254-23289/com.jawbone.upopen D/UPOPEN﹕ BandManager >>> SLP band char =8
+07-13 22:54:15.029  23254-23289/com.jawbone.upopen I/UPOPEN﹕ BandManager >>> createBand > Got band from cache: BandSparta
+07-13 22:54:15.029  23254-23290/com.jawbone.upopen D/UPOPEN﹕ TABLE common_device_info >>> Failed to query table SELECT * FROM common_device_info WHERE ((userXid = ? OR userXid = ?) AND serialHash = ?) ORDER BY _id ASC
+07-13 22:54:15.029  23254-23289/com.jawbone.upopen D/UPOPEN﹕ TABLE common_device_info >>> Failed to query table SELECT * FROM common_device_info WHERE ((userXid = ? OR userXid = ?) AND serialHash = ?) ORDER BY _id ASC
+07-13 22:54:15.029  23254-23289/com.jawbone.upopen D/UPOPEN﹕ BandManager >>> UP3SpartaEvent: PAIRING
+07-13 22:54:15.034  23254-23290/com.jawbone.upopen D/UPOPEN﹕ TABLE common_device_info >>> Failed to query table SELECT * FROM common_device_info WHERE ((userXid = ? OR userXid = ?) AND serialHash = ?) ORDER BY _id ASC
+07-13 22:54:15.034  23254-23289/com.jawbone.upopen I/UPOPEN﹕ BandManager >>> acquireWakeLock >>> (1) > com.jawbone.up.bands.BandManager.a(BandManager.java:522)
+07-13 22:54:15.034  23254-23290/com.jawbone.upopen E/UPOPEN﹕ TABLE common_device_info >>> Failed to update table where serialHash = 1347440134 AND (userXid = RGaCBFg9CsBjZzCUMeT78A OR userXid = unknown)
+07-13 22:54:15.034  23254-23294/com.jawbone.upopen I/UPOPEN﹕ BandManager >>> onBandEvent >>> what > PAIR_CONNECTING
+07-13 22:54:15.034  23254-23294/com.jawbone.upopen I/UPOPEN﹕ BandManager >>> onBandEvent >>> 	where > UPStatusBarNotification
+07-13 22:54:15.034  23254-23294/com.jawbone.upopen D/UPOPEN﹕ up.Armstrong.UPStatusBarNotification >>> updateNotificationIcon()
+07-13 22:54:15.034  23254-23294/com.jawbone.upopen D/UPOPEN﹕ UPService >>> setBandStateChangeListener() iconId = 0
+07-13 22:54:15.034  23254-23294/com.jawbone.upopen D/UPOPEN﹕ UPService >>> updateBandStatusNotificationIcon()
+07-13 22:54:15.039  23254-23294/com.jawbone.upopen W/UPOPEN﹕ BandManager >>> getBand > Serial is null or empty
+07-13 22:54:15.039  23254-23294/com.jawbone.upopen D/UPOPEN﹕ UPService >>> cancelBandStatusNotification()
+07-13 22:54:15.039  23254-23294/com.jawbone.upopen I/UPOPEN﹕ BandManager >>> onBandEvent >>> 	where > PairingFragment
+07-13 22:54:15.039  23254-23294/com.jawbone.upopen I/UPOPEN﹕ BandManager >>> releaseWakeLock >>> (0) > com.jawbone.up.bands.BandManager$2.run(BandManager.java:656)
+07-13 22:54:15.059  23254-23254/com.jawbone.upopen D/UPOPEN﹕ PAIR >>> AbstractPairingFragment preProcessPairingEvents:start
+07-13 22:54:15.059  23254-23254/com.jawbone.upopen D/UPOPEN﹕ PAIR >>> AbstractPairingFragment preProcessPairingEvents:lookingAnimationLock
+07-13 22:54:15.059  23254-23254/com.jawbone.upopen D/UPOPEN﹕ PAIR >>> AbstractPairingFragment preProcessPairingEvents:KANIMATION_NOT_CLEARED
+07-13 22:54:15.059  23254-23254/com.jawbone.upopen D/UPOPEN﹕ PAIR >>> AbstractPairingFragment preProcessPairingEvents:ClearAnimation
+07-13 22:54:15.059  23254-23254/com.jawbone.upopen D/UPOPEN﹕ PAIR >>> AbstractPairingFragment preProcessPairingEvents:processBandEvent()
+07-13 22:54:15.059  23254-23254/com.jawbone.upopen D/UPOPEN﹕ PAIR >>> AbstractPairingFragment upBandMessage PAIR_CONNECTING
+07-13 22:54:15.064  23254-23254/com.jawbone.upopen D/UPOPEN﹕ PAIR >>> AbstractPairingFragment animation:onAnimationEnd animationClearedBy = 2
+07-13 22:54:15.114  23254-23290/com.jawbone.upopen D/UPOPEN﹕ DeviceInfo >>> active:false | user:RGaCBFg9CsBjZzCUMeT78A | id:14 | key:80A0735CBCD4610B29D36367D924CA84 | hash:1347440134 | sn:71250504E06BF038 | fw:null | address:E9:7C:2F:27:15:00 | battery:-1%
+07-13 22:54:15.119  23254-23290/com.jawbone.upopen D/BluetoothGatt﹕ writeCharacteristic() - uuid: 151c1001-4580-4111-9ca1-5056f3454fbc
+07-13 22:54:15.214  23254-23265/com.jawbone.upopen D/BluetoothGatt﹕ onCharacteristicWrite() - Device=E9:7C:2F:27:15:00 UUID=151c1001-4580-4111-9ca1-5056f3454fbc Status=0
+07-13 22:54:15.214  23254-23265/com.jawbone.upopen E/UPOPEN﹕ JawboneDevice >>> lastWriteStatus 2 > 0
+07-13 22:54:15.214  23254-23290/com.jawbone.upopen E/UPOPEN﹕ JawboneDevice >>> lastWriteStatus 3 > 0
+07-13 22:54:15.214  23254-23290/com.jawbone.upopen W/UPOPEN﹕ StreamService >>> writeOutputStream > Transaction is null
+07-13 22:54:18.899  23254-23266/com.jawbone.upopen D/BluetoothGatt﹕ onNotify() - Device=E9:7C:2F:27:15:00 UUID=151c1002-4580-4111-9ca1-5056f3454fbc
+07-13 22:54:18.909  23254-23266/com.jawbone.upopen D/UPOPEN﹕ StreamService >>> onCharacteristicChanged > 
+	n >> (151c1002-4580-4111-9ca1-5056f3454fbc) > 01FE00F900
+07-13 22:54:19.004  23254-24902/com.jawbone.upopen D/UPOPEN﹕ StreamService >>> readFromDevice > Response > 
+	f >> (0, 63, 0) > 0x03
+	g >> (1, 63, 0) > 0x00
+	h >> (2, 63, 0) > 0xf9
+	i >> (3, 63, 0) > 0x00
+	k >> (4, 63, 0) > null
+07-13 22:54:19.019  23254-24902/com.jawbone.upopen D/UPOPEN﹕ NEWTICK >>> Authentication Request : PC_Z =9B2BA88D3D57E0230000000000000000
+07-13 22:54:19.019  23254-24902/com.jawbone.upopen D/UPOPEN﹕ NEWTICK >>> Authentication Request : Key =80A0735CBCD4610B29D36367D924CA84
+07-13 22:54:19.024  23254-24902/com.jawbone.upopen D/NEWTICK﹕ Key length = 16 mode =1 inp length = 16
+07-13 22:54:19.029  23254-24902/com.jawbone.upopen D/SecuredStream﹕ encrypted data 3 > 5D7C561B7708E4CA9A95B6E083D447A8
+07-13 22:54:19.034  23254-24902/com.jawbone.upopen D/UPOPEN﹕ NEWTICK >>> Authentication Request : PC_Z encrypt =5D7C561B7708E4CA9A95B6E083D447A8
+07-13 22:54:19.049  23254-24902/com.jawbone.upopen I/UPOPEN﹕ StreamService >>> writeOutputStream > AuthenticateRequest > 
+	f >> (0, 63, 0) > 0x04
+	g >> (1, 63, 0) > 0x00
+	h >> (2, 63, 0) > 0xf8
+	i >> (3, 63, 0) > 0x10
+	d >> (4, 63, 0) > 5D7C561B7708E4CA9A95B6E083D447A8
+07-13 22:54:19.064  23254-24902/com.jawbone.upopen D/BluetoothGatt﹕ writeCharacteristic() - uuid: 151c1001-4580-4111-9ca1-5056f3454fbc
+07-13 22:54:19.114  23254-23265/com.jawbone.upopen D/BluetoothGatt﹕ onCharacteristicWrite() - Device=E9:7C:2F:27:15:00 UUID=151c1001-4580-4111-9ca1-5056f3454fbc Status=0
+07-13 22:54:19.119  23254-23265/com.jawbone.upopen E/UPOPEN﹕ JawboneDevice >>> lastWriteStatus 2 > 0
+07-13 22:54:19.129  23254-24902/com.jawbone.upopen E/UPOPEN﹕ JawboneDevice >>> lastWriteStatus 3 > 0
+07-13 22:54:19.129  23254-23290/com.jawbone.upopen D/BluetoothGatt﹕ writeCharacteristic() - uuid: 151c1001-4580-4111-9ca1-5056f3454fbc
+07-13 22:54:19.189  23254-23266/com.jawbone.upopen D/BluetoothGatt﹕ onCharacteristicWrite() - Device=E9:7C:2F:27:15:00 UUID=151c1001-4580-4111-9ca1-5056f3454fbc Status=0
+07-13 22:54:19.189  23254-23266/com.jawbone.upopen E/UPOPEN﹕ JawboneDevice >>> lastWriteStatus 2 > 0
+07-13 22:54:19.194  23254-23290/com.jawbone.upopen E/UPOPEN﹕ JawboneDevice >>> lastWriteStatus 3 > 0
+07-13 22:54:19.194  23254-23290/com.jawbone.upopen W/UPOPEN﹕ StreamService >>> writeOutputStream > Transaction is null
+07-13 22:54:19.229  23254-23265/com.jawbone.upopen D/BluetoothGatt﹕ onNotify() - Device=E9:7C:2F:27:15:00 UUID=151c1002-4580-4111-9ca1-5056f3454fbc
+07-13 22:54:19.229  23254-23265/com.jawbone.upopen D/UPOPEN﹕ StreamService >>> onCharacteristicChanged > 
+	n >> (151c1002-4580-4111-9ca1-5056f3454fbc) > 02FE00F810AE1DCBD5466E0B096C5CFD0AA62298
+07-13 22:54:19.389  23254-23266/com.jawbone.upopen D/BluetoothGatt﹕ onNotify() - Device=E9:7C:2F:27:15:00 UUID=151c1002-4580-4111-9ca1-5056f3454fbc
+07-13 22:54:19.389  23254-23266/com.jawbone.upopen D/UPOPEN﹕ StreamService >>> onCharacteristicChanged > 
+	n >> (151c1002-4580-4111-9ca1-5056f3454fbc) > 03FB
+07-13 22:54:19.464  23254-24902/com.jawbone.upopen D/UPOPEN﹕ StreamService >>> readFromDevice > Response > 
+	f >> (0, 63, 0) > 0x04
+	g >> (1, 63, 0) > 0x00
+	h >> (2, 63, 0) > 0xf8
+	i >> (3, 63, 0) > 0x10
+	k >> (4, 63, 0) > AE1DCBD5466E0B096C5CFD0AA62298FB
+07-13 22:54:19.464  23254-24902/com.jawbone.upopen D/UPOPEN﹕ SpartaDevice >>> Got Authenticate response :AE1DCBD5466E0B096C5CFD0AA62298FB
+07-13 22:54:19.464  23254-24902/com.jawbone.upopen D/NEWTICK﹕ Key length = 16 mode =2 inp length = 16
+07-13 22:54:19.469  23254-24902/com.jawbone.upopen D/SecuredStream﹕ encrypted data 3 > 9B2BA88D3D57E023F59F4BE60255DF01
+07-13 22:54:19.469  23254-24902/com.jawbone.upopen D/UPOPEN﹕ SpartaDevice >>> PC_BC :9B2BA88D3D57E023F59F4BE60255DF01
+07-13 22:54:19.469  23254-24902/com.jawbone.upopen D/UPOPEN﹕ SpartaDevice >>> Z_BC :0000000000000000F59F4BE60255DF01
+07-13 22:54:19.469  23254-24902/com.jawbone.upopen D/NEWTICK﹕ Key length = 16 mode =1 inp length = 16
+07-13 22:54:19.469  23254-24902/com.jawbone.upopen D/SecuredStream﹕ encrypted data 3 > AE1DCBD5466E0B096C5CFD0AA62298FB
+07-13 22:54:19.469  23254-24902/com.jawbone.upopen D/UPOPEN﹕ SpartaDevice >>> PR :AE1DCBD5466E0B096C5CFD0AA62298FB
+07-13 22:54:19.474  23254-24902/com.jawbone.upopen D/UPOPEN﹕ BtleLink >>> Challenge PR > AE1DCBD5466E0B096C5CFD0AA62298FB
+07-13 22:54:19.474  23254-24902/com.jawbone.upopen D/UPOPEN﹕ BtleLink >>> Challenge PR xor Z_BC > AE1DCBD5466E0B0999C3B6ECA47747FA
+07-13 22:54:19.484  23254-24902/com.jawbone.upopen I/UPOPEN﹕ StreamService >>> writeOutputStream > ChallengeRequest > 
+	f >> (0, 63, 0) > 0x05
+	g >> (1, 63, 0) > 0x00
+	h >> (2, 63, 0) > 0xf7
+	i >> (3, 63, 0) > 0x10
+	d >> (4, 63, 0) > AE1DCBD5466E0B0999C3B6ECA47747FA
+07-13 22:54:19.489  23254-24902/com.jawbone.upopen D/BluetoothGatt﹕ writeCharacteristic() - uuid: 151c1001-4580-4111-9ca1-5056f3454fbc
+07-13 22:54:19.564  23254-23265/com.jawbone.upopen D/BluetoothGatt﹕ onCharacteristicWrite() - Device=E9:7C:2F:27:15:00 UUID=151c1001-4580-4111-9ca1-5056f3454fbc Status=0
+07-13 22:54:19.569  23254-23265/com.jawbone.upopen E/UPOPEN﹕ JawboneDevice >>> lastWriteStatus 2 > 0
+07-13 22:54:19.569  23254-24902/com.jawbone.upopen E/UPOPEN﹕ JawboneDevice >>> lastWriteStatus 3 > 0
+07-13 22:54:19.574  23254-23290/com.jawbone.upopen D/BluetoothGatt﹕ writeCharacteristic() - uuid: 151c1001-4580-4111-9ca1-5056f3454fbc
+07-13 22:54:19.639  23254-23266/com.jawbone.upopen D/BluetoothGatt﹕ onCharacteristicWrite() - Device=E9:7C:2F:27:15:00 UUID=151c1001-4580-4111-9ca1-5056f3454fbc Status=0
+07-13 22:54:19.644  23254-23266/com.jawbone.upopen E/UPOPEN﹕ JawboneDevice >>> lastWriteStatus 2 > 0
+07-13 22:54:19.644  23254-23290/com.jawbone.upopen E/UPOPEN﹕ JawboneDevice >>> lastWriteStatus 3 > 0
+07-13 22:54:19.644  23254-23290/com.jawbone.upopen W/UPOPEN﹕ StreamService >>> writeOutputStream > Transaction is null
+07-13 22:54:19.679  23254-23265/com.jawbone.upopen D/BluetoothGatt﹕ onNotify() - Device=E9:7C:2F:27:15:00 UUID=151c1002-4580-4111-9ca1-5056f3454fbc
+07-13 22:54:19.684  23254-23265/com.jawbone.upopen D/UPOPEN﹕ StreamService >>> onCharacteristicChanged > 
+	n >> (151c1002-4580-4111-9ca1-5056f3454fbc) > 04FE00F70101
+07-13 22:54:19.734  23254-24902/com.jawbone.upopen D/UPOPEN﹕ StreamService >>> readFromDevice > Response > 
+	f >> (0, 63, 0) > 0x05
+	g >> (1, 63, 0) > 0x00
+	h >> (2, 63, 0) > 0xf7
+	i >> (3, 63, 0) > 0x01
+	k >> (4, 63, 0) > 01
+07-13 22:54:19.734  23254-24902/com.jawbone.upopen D/UPOPEN﹕ SpartaDevice >>> Got ResponseToChallenge
+07-13 22:54:19.769  23254-24902/com.jawbone.upopen I/UPOPEN﹕ StreamService >>> writeOutputStream > SecureChannelRequest > 
+	f >> (0, 63, 0) > 0x06
+	g >> (1, 63, 0) > 0x00
+	h >> (2, 63, 0) > 0xf6
+	i >> (3, 63, 0) > 0x10
+	c >> (4, 63, 0) > 0AAFA65DB97E553579F2238289C9AA8C
+	d >> (4, 63, 0) > null
+07-13 22:54:19.774  23254-24902/com.jawbone.upopen D/BluetoothGatt﹕ writeCharacteristic() - uuid: 151c1001-4580-4111-9ca1-5056f3454fbc
+07-13 22:54:19.829  23254-23266/com.jawbone.upopen D/BluetoothGatt﹕ onCharacteristicWrite() - Device=E9:7C:2F:27:15:00 UUID=151c1001-4580-4111-9ca1-5056f3454fbc Status=0
+07-13 22:54:19.829  23254-23266/com.jawbone.upopen E/UPOPEN﹕ JawboneDevice >>> lastWriteStatus 2 > 0
+07-13 22:54:19.829  23254-24902/com.jawbone.upopen E/UPOPEN﹕ JawboneDevice >>> lastWriteStatus 3 > 0
+07-13 22:54:19.834  23254-23290/com.jawbone.upopen D/BluetoothGatt﹕ writeCharacteristic() - uuid: 151c1001-4580-4111-9ca1-5056f3454fbc
+07-13 22:54:19.904  23254-23265/com.jawbone.upopen D/BluetoothGatt﹕ onCharacteristicWrite() - Device=E9:7C:2F:27:15:00 UUID=151c1001-4580-4111-9ca1-5056f3454fbc Status=0
+07-13 22:54:19.904  23254-23265/com.jawbone.upopen E/UPOPEN﹕ JawboneDevice >>> lastWriteStatus 2 > 0
+07-13 22:54:19.909  23254-23290/com.jawbone.upopen E/UPOPEN﹕ JawboneDevice >>> lastWriteStatus 3 > 0
+07-13 22:54:19.909  23254-23290/com.jawbone.upopen W/UPOPEN﹕ StreamService >>> writeOutputStream > Transaction is null
+07-13 22:54:19.944  23254-23266/com.jawbone.upopen D/BluetoothGatt﹕ onNotify() - Device=E9:7C:2F:27:15:00 UUID=151c1002-4580-4111-9ca1-5056f3454fbc
+07-13 22:54:19.944  23254-23266/com.jawbone.upopen D/UPOPEN﹕ StreamService >>> onCharacteristicChanged > 
+	n >> (151c1002-4580-4111-9ca1-5056f3454fbc) > 05FE00F6102B7EC5A1814AEAB86B67FB8462A29C
+07-13 22:54:20.019  23254-23265/com.jawbone.upopen D/BluetoothGatt﹕ onNotify() - Device=E9:7C:2F:27:15:00 UUID=151c1002-4580-4111-9ca1-5056f3454fbc
+07-13 22:54:20.019  23254-23265/com.jawbone.upopen D/UPOPEN﹕ StreamService >>> onCharacteristicChanged > 
+	n >> (151c1002-4580-4111-9ca1-5056f3454fbc) > 068227B59966D1B76356
+07-13 22:54:20.044  23254-24902/com.jawbone.upopen D/UPOPEN﹕ StreamService >>> readFromDevice > Response > 
+	f >> (0, 63, 0) > 0x06
+	g >> (1, 63, 0) > 0x00
+	h >> (2, 63, 0) > 0xf6
+	i >> (3, 63, 0) > 0x10
+	k >> (4, 63, 0) > 2B7EC5A1814AEAB86B67FB8462A29C82
+07-13 22:54:20.044  23254-24902/com.jawbone.upopen D/UPOPEN﹕ SpartaDevice >>> Phone seed =0AAFA65DB97E553579F2238289C9AA8C
+07-13 22:54:20.044  23254-24902/com.jawbone.upopen D/UPOPEN﹕ SpartaDevice >>> Device seed =2B7EC5A1814AEAB86B67FB8462A29C82
+07-13 22:54:20.044  23254-24902/com.jawbone.upopen D/UPOPEN﹕ SpartaDevice >>> >>>>>>>>>>>>>> StreamService Secured
+07-13 22:54:20.059  23254-23290/com.jawbone.upopen I/UPOPEN﹕ StreamService >>> writeOutputStream > NfcIdRequest > 
+	f >> (0, 63, 0) > 0xc5
+	g >> (1, 63, 0) > 0x00
+	h >> (2, 63, 0) > 0xf5
+	i >> (3, 63, 0) > 0x00
+	d >> (4, 63, 0) > null
+07-13 22:54:20.064  23254-23290/com.jawbone.upopen D/SecuredStream﹕ generateSeed > 02B767879F601137DC5107741608AAA0
+07-13 22:54:20.064  23254-23290/com.jawbone.upopen D/SecuredStream﹕ C500F500 xor 02B76787 = C7B79287
+07-13 22:54:20.069  23254-23290/com.jawbone.upopen D/BluetoothGatt﹕ writeCharacteristic() - uuid: 151c1001-4580-4111-9ca1-5056f3454fbc
+07-13 22:54:20.129  23254-23266/com.jawbone.upopen D/BluetoothGatt﹕ onCharacteristicWrite() - Device=E9:7C:2F:27:15:00 UUID=151c1001-4580-4111-9ca1-5056f3454fbc Status=0
+07-13 22:54:20.129  23254-23266/com.jawbone.upopen E/UPOPEN﹕ JawboneDevice >>> lastWriteStatus 2 > 0
+07-13 22:54:20.134  23254-23290/com.jawbone.upopen E/UPOPEN﹕ JawboneDevice >>> lastWriteStatus 3 > 0
+07-13 22:54:20.134  23254-23290/com.jawbone.upopen I/UPOPEN﹕ StreamService >>> writeToDevice > Transaction queued: UserModeRequest
+07-13 22:54:20.139  23254-23265/com.jawbone.upopen D/BluetoothGatt﹕ onNotify() - Device=E9:7C:2F:27:15:00 UUID=151c1002-4580-4111-9ca1-5056f3454fbc
+07-13 22:54:20.139  23254-23265/com.jawbone.upopen D/UPOPEN﹕ StreamService >>> onCharacteristicChanged > 
+	n >> (151c1002-4580-4111-9ca1-5056f3454fbc) > 075A0BC2AC
+07-13 22:54:20.149  23254-23290/com.jawbone.upopen I/UPOPEN﹕ StreamService >>> writeOutputStream > UserModeRequest > 
+	f >> (0, 63, 0) > 0xc8
+	g >> (1, 63, 0) > 0x00
+	h >> (2, 63, 0) > 0xf4
+	i >> (3, 63, 0) > 0x00
+	d >> (4, 63, 0) > null
+07-13 22:54:20.149  23254-23290/com.jawbone.upopen D/SecuredStream﹕ C800F400 xor 9F601137 = 5760E537
+07-13 22:54:20.149  23254-23290/com.jawbone.upopen D/BluetoothGatt﹕ writeCharacteristic() - uuid: 151c1001-4580-4111-9ca1-5056f3454fbc
+07-13 22:54:20.204  23254-23266/com.jawbone.upopen D/BluetoothGatt﹕ onCharacteristicWrite() - Device=E9:7C:2F:27:15:00 UUID=151c1001-4580-4111-9ca1-5056f3454fbc Status=0
+07-13 22:54:20.204  23254-23266/com.jawbone.upopen E/UPOPEN﹕ JawboneDevice >>> lastWriteStatus 2 > 0
+07-13 22:54:20.209  23254-23290/com.jawbone.upopen E/UPOPEN﹕ JawboneDevice >>> lastWriteStatus 3 > 0
+07-13 22:54:20.209  23254-23290/com.jawbone.upopen W/UPOPEN﹕ StreamService >>> writeOutputStream > Transaction is null
+07-13 22:54:20.214  23254-23265/com.jawbone.upopen D/BluetoothGatt﹕ onNotify() - Device=E9:7C:2F:27:15:00 UUID=151c1002-4580-4111-9ca1-5056f3454fbc
+07-13 22:54:20.214  23254-24902/com.jawbone.upopen I/UPOPEN﹕ StreamService >>> writeOutputStream > SetErrorCursor > 
+	f >> (0, 63, 0) > 0x82
+	g >> (1, 63, 0) > 0x00
+	h >> (2, 63, 0) > 0xf3
+	i >> (3, 63, 0) > 0x05
+	c >> (4, 63, 0) > 604800
+	d >> (4, 63, 0) > null
+	l >> (8, 63, 0) > 0x00
+07-13 22:54:20.219  23254-23265/com.jawbone.upopen D/UPOPEN﹕ StreamService >>> onCharacteristicChanged > 
+	n >> (151c1002-4580-4111-9ca1-5056f3454fbc) > 088083C44B83
+07-13 22:54:20.229  23254-24902/com.jawbone.upopen D/SecuredStream﹕ generateSeed > 5A164DD906EA567CF9917418E81A64F0
+07-13 22:54:20.229  23254-24902/com.jawbone.upopen D/SecuredStream﹕ 8200F305803A090000 xor DC5107741608AAA05A = 5E51F4719632A3A05A
+07-13 22:54:20.234  23254-24902/com.jawbone.upopen D/BluetoothGatt﹕ writeCharacteristic() - uuid: 151c1001-4580-4111-9ca1-5056f3454fbc
+07-13 22:54:20.319  23254-23266/com.jawbone.upopen D/BluetoothGatt﹕ onCharacteristicWrite() - Device=E9:7C:2F:27:15:00 UUID=151c1001-4580-4111-9ca1-5056f3454fbc Status=0
+07-13 22:54:20.319  23254-23266/com.jawbone.upopen E/UPOPEN﹕ JawboneDevice >>> lastWriteStatus 2 > 0
+07-13 22:54:20.319  23254-24902/com.jawbone.upopen E/UPOPEN﹕ JawboneDevice >>> lastWriteStatus 3 > 0
+07-13 22:54:20.329  23254-23290/com.jawbone.upopen W/UPOPEN﹕ StreamService >>> writeOutputStream > Transaction is null
+07-13 22:54:20.344  23254-24902/com.jawbone.upopen D/BluetoothGatt﹕ writeCharacteristic() - uuid: 151c0001-4580-4111-9ca1-5056f3454fbc
+07-13 22:54:20.354  23254-23265/com.jawbone.upopen D/BluetoothGatt﹕ onCharacteristicWrite() - Device=E9:7C:2F:27:15:00 UUID=151c0001-4580-4111-9ca1-5056f3454fbc Status=0
+07-13 22:54:20.359  23254-23265/com.jawbone.upopen E/UPOPEN﹕ JawboneDevice >>> lastWriteStatus 2 > 0
+07-13 22:54:20.359  23254-24902/com.jawbone.upopen E/UPOPEN﹕ JawboneDevice >>> lastWriteStatus 3 > 0
+07-13 22:54:20.364  23254-24902/com.jawbone.upopen D/UPOPEN﹕ SpartaDevice >>> >>>>>>>>>>>>>> Date and time set
+07-13 22:54:20.364  23254-24902/com.jawbone.upopen D/SecuredStream﹕ generateSeed > A3B59962D1BF0858A40B37AC7E83304A
+07-13 22:54:20.364  23254-24902/com.jawbone.upopen D/SecuredStream﹕ 27B59966 xor A3B59962 = 84000004
+07-13 22:54:20.374  23254-24902/com.jawbone.upopen D/SecuredStream﹕ D1B76356 xor D1BF0858 = 00086B0E
+07-13 22:54:20.394  23254-23266/com.jawbone.upopen D/BluetoothGatt﹕ onNotify() - Device=E9:7C:2F:27:15:00 UUID=151c1002-4580-4111-9ca1-5056f3454fbc
+07-13 22:54:20.394  23254-23266/com.jawbone.upopen D/UPOPEN﹕ StreamService >>> onCharacteristicChanged > 
+	n >> (151c1002-4580-4111-9ca1-5056f3454fbc) > 09C0C81513
+07-13 22:54:20.404  23254-24902/com.jawbone.upopen D/UPOPEN﹕ StreamService >>> readFromDevice > BatteryReading > 
+	f >> (0, 63, 0) > 0x84
+	g >> (1, 63, 0) > 0x00
+	h >> (2, 63, 0) > 0x00
+	i >> (3, 63, 0) > 0x04
+	c >> (4, 63, 0) > 0x00
+	k >> (4, 63, 0) > 00086B0E
+	d >> (5, 63, 0) > 0x08
+	e >> (6, 63, 0) > 3691
+07-13 22:54:20.404  23254-24902/com.jawbone.upopen I/UPOPEN﹕ DeviceManager >>> RawDeviceEvent >>> BATTERY_READING
+07-13 22:54:20.404  23254-23289/com.jawbone.upopen I/UPOPEN﹕ DeviceManager >>> onDeviceEvent >>> what > BATTERY_READING
+07-13 22:54:20.404  23254-23289/com.jawbone.upopen I/UPOPEN﹕ DeviceManager >>> onDeviceEvent >>> 	where > com.jawbone.up.bands.BandManager$5
+07-13 22:54:20.414  23254-23289/com.jawbone.upopen D/UPOPEN﹕ Band >>> createFrom > firmwareVersion = 1.1.20
+07-13 22:54:20.414  23254-23289/com.jawbone.upopen D/UPOPEN﹕ BandManager >>> Serial no =71250504E06BF038
+07-13 22:54:20.414  23254-23289/com.jawbone.upopen D/UPOPEN﹕ BandManager >>> SLP band char =8
+07-13 22:54:20.414  23254-23289/com.jawbone.upopen I/UPOPEN﹕ BandManager >>> createBand > Got band from cache: BandSparta
+07-13 22:54:20.414  23254-23289/com.jawbone.upopen D/UPOPEN﹕ BandManager >>> UP3SpartaEvent: BATTERY_READING
+07-13 22:54:20.419  23254-23289/com.jawbone.upopen I/UPOPEN﹕ BandManager >>> acquireWakeLock >>> (1) > com.jawbone.up.bands.BandManager.a(BandManager.java:522)
+07-13 22:54:20.419  23254-23294/com.jawbone.upopen I/UPOPEN﹕ BandManager >>> onBandEvent >>> what > BATTERY_STATE
+07-13 22:54:20.424  23254-23294/com.jawbone.upopen I/UPOPEN﹕ BandManager >>> onBandEvent >>> 	where > UPStatusBarNotification
+07-13 22:54:20.424  23254-23294/com.jawbone.upopen D/UPOPEN﹕ com.jawbone.up.bands.BandUtils >>> getBandStatusIcon, event = BATTERY_STATE and band = Band > BandSparta
+    bid: 71250504E06BF038
+    name: Stefano's UP2
+    battery: 8%
+    event: BATTERY_STATE
+07-13 22:54:20.434  23254-23294/com.jawbone.upopen D/UPOPEN﹕ up.Armstrong.UPStatusBarNotification >>> updateNotificationIcon()
+07-13 22:54:20.434  23254-23294/com.jawbone.upopen D/UPOPEN﹕ UPService >>> setBandStateChangeListener() iconId = 2130838794
+07-13 22:54:20.434  23254-23294/com.jawbone.upopen D/UPOPEN﹕ UPService >>> updateBandStatusNotificationIcon()
+07-13 22:54:20.434  23254-23294/com.jawbone.upopen W/UPOPEN﹕ BandManager >>> getBand > Serial is null or empty
+07-13 22:54:20.434  23254-23294/com.jawbone.upopen D/UPOPEN﹕ UPService >>> cancelBandStatusNotification()
+07-13 22:54:20.439  23254-23294/com.jawbone.upopen I/UPOPEN﹕ BandManager >>> onBandEvent >>> 	where > PairingFragment
+07-13 22:54:20.439  23254-23254/com.jawbone.upopen D/UPOPEN﹕ PAIR >>> AbstractPairingFragment preProcessPairingEvents:start
+07-13 22:54:20.444  23254-23254/com.jawbone.upopen D/UPOPEN﹕ PAIR >>> AbstractPairingFragment preProcessPairingEvents:lookingAnimationLock
+07-13 22:54:20.444  23254-23254/com.jawbone.upopen D/UPOPEN﹕ PAIR >>> AbstractPairingFragment preProcessPairingEvents:processBandEvent()
+07-13 22:54:20.444  23254-23254/com.jawbone.upopen D/UPOPEN﹕ PAIR >>> AbstractPairingFragment upBandMessage BATTERY_STATE
+07-13 22:54:20.444  23254-23294/com.jawbone.upopen I/UPOPEN﹕ BandManager >>> releaseWakeLock >>> (0) > com.jawbone.up.bands.BandManager$2.run(BandManager.java:656)
+07-13 22:54:20.449  23254-24902/com.jawbone.upopen D/UPOPEN﹕ DeviceInfo >>> active:false | user:RGaCBFg9CsBjZzCUMeT78A | id:14 | key:80A0735CBCD4610B29D36367D924CA84 | hash:1347440134 | sn:71250504E06BF038 | fw:null | address:E9:7C:2F:27:15:00 | battery:-1%
+07-13 22:54:20.469  23254-23265/com.jawbone.upopen D/BluetoothGatt﹕ onNotify() - Device=E9:7C:2F:27:15:00 UUID=151c1002-4580-4111-9ca1-5056f3454fbc
+07-13 22:54:20.494  23254-23265/com.jawbone.upopen D/UPOPEN﹕ StreamService >>> onCharacteristicChanged > 
+	n >> (151c1002-4580-4111-9ca1-5056f3454fbc) > 0ACB2B2584F60DC280618A3D536150460E9D68
+07-13 22:54:20.509  23254-24902/com.jawbone.upopen D/UPOPEN﹕ DeviceInfo >>> active:false | user:RGaCBFg9CsBjZzCUMeT78A | id:14 | key:80A0735CBCD4610B29D36367D924CA84 | hash:1347440134 | sn:71250504E06BF038 | fw:null | address:E9:7C:2F:27:15:00 | battery:8%
+07-13 22:54:20.509  23254-24902/com.jawbone.upopen D/SecuredStream﹕ 5A0BC2AC xor A40B37AC = FE00F500
+07-13 22:54:20.509  23254-24902/com.jawbone.upopen D/SecuredStream﹕ xor  =
+07-13 22:54:20.519  23254-24902/com.jawbone.upopen D/UPOPEN﹕ StreamService >>> readFromDevice > NfcIdResponse > 
+	f >> (0, 63, 0) > 0xc5
+	g >> (1, 63, 0) > 0x00
+	h >> (2, 63, 0) > 0xf5
+	i >> (3, 63, 0) > 0x00
+	c >> (4, 63, 0) > null
+	k >> (4, 63, 0) > null
+07-13 22:54:20.524  23254-24902/com.jawbone.upopen D/UPOPEN﹕ DeviceInfo >>> active:false | user:RGaCBFg9CsBjZzCUMeT78A | id:14 | key:80A0735CBCD4610B29D36367D924CA84 | hash:1347440134 | sn:71250504E06BF038 | fw:null | address:E9:7C:2F:27:15:00 | battery:8%
+07-13 22:54:20.544  23254-23266/com.jawbone.upopen D/BluetoothGatt﹕ onNotify() - Device=E9:7C:2F:27:15:00 UUID=151c1002-4580-4111-9ca1-5056f3454fbc
+07-13 22:54:20.544  23254-23266/com.jawbone.upopen D/UPOPEN﹕ StreamService >>> onCharacteristicChanged > 
+	n >> (151c1002-4580-4111-9ca1-5056f3454fbc) > 0BEF708D3FE26C8AE28954E440C858EEDB0C866B
+07-13 22:54:20.559  23254-24902/com.jawbone.upopen D/UPOPEN﹕ DeviceInfo >>> active:false | user:RGaCBFg9CsBjZzCUMeT78A | id:14 | key:80A0735CBCD4610B29D36367D924CA84 | hash:1347440134 | sn:71250504E06BF038 | fw:null | address:E9:7C:2F:27:15:00 | battery:8%
+07-13 22:54:20.559  23254-24902/com.jawbone.upopen I/UPOPEN﹕ DeviceManager >>> RawDeviceEvent >>> COMMAND_SYNC_FAILED
+07-13 22:54:20.564  23254-23289/com.jawbone.upopen I/UPOPEN﹕ DeviceManager >>> onDeviceEvent >>> what > COMMAND_SYNC_FAILED
+07-13 22:54:20.564  23254-23289/com.jawbone.upopen I/UPOPEN﹕ DeviceManager >>> onDeviceEvent >>> 	where > com.jawbone.up.bands.BandManager$5
+07-13 22:54:20.569  23254-23289/com.jawbone.upopen D/UPOPEN﹕ Band >>> createFrom > firmwareVersion = 1.1.20
+07-13 22:54:20.569  23254-24902/com.jawbone.upopen D/SecuredStream﹕ 8083C44B xor 7E83304A = FE00F401
+07-13 22:54:20.574  23254-24902/com.jawbone.upopen D/SecuredStream﹕ generateSeed > 833EC8E613F92B258AF70D9B80618A36
+07-13 22:54:20.574  23254-23289/com.jawbone.upopen D/UPOPEN﹕ BandManager >>> Serial no =71250504E06BF038
+07-13 22:54:20.574  23254-23289/com.jawbone.upopen D/UPOPEN﹕ BandManager >>> SLP band char =8
+07-13 22:54:20.579  23254-23289/com.jawbone.upopen I/UPOPEN﹕ BandManager >>> createBand > Got band from cache: BandSparta
+07-13 22:54:20.579  23254-23289/com.jawbone.upopen D/UPOPEN﹕ BandManager >>> UP3SpartaEvent: COMMAND_SYNC_FAILED
+07-13 22:54:20.579  23254-23289/com.jawbone.upopen I/UPOPEN﹕ BandManager >>> acquireWakeLock >>> (1) > com.jawbone.up.bands.BandManager.a(BandManager.java:522)
+07-13 22:54:20.584  23254-23294/com.jawbone.upopen I/UPOPEN﹕ BandManager >>> onBandEvent >>> what > UNKNOWN
+07-13 22:54:20.584  23254-23294/com.jawbone.upopen I/UPOPEN﹕ BandManager >>> onBandEvent >>> 	where > UPStatusBarNotification
+07-13 22:54:20.584  23254-23294/com.jawbone.upopen D/UPOPEN﹕ com.jawbone.up.bands.BandUtils >>> getBandStatusIcon, event = UNKNOWN and band = Band > BandSparta
+    bid: 71250504E06BF038
+    name: Stefano's UP2
+    battery: 8%
+    event: UNKNOWN
+07-13 22:54:20.589  23254-23294/com.jawbone.upopen D/UPOPEN﹕ up.Armstrong.UPStatusBarNotification >>> updateNotificationIcon()
+07-13 22:54:20.594  23254-23294/com.jawbone.upopen D/UPOPEN﹕ UPService >>> setBandStateChangeListener() iconId = 2130838794
+07-13 22:54:20.594  23254-23294/com.jawbone.upopen D/UPOPEN﹕ UPService >>> updateBandStatusNotificationIcon()
+07-13 22:54:20.594  23254-23294/com.jawbone.upopen W/UPOPEN﹕ BandManager >>> getBand > Serial is null or empty
+07-13 22:54:20.594  23254-23294/com.jawbone.upopen D/UPOPEN﹕ UPService >>> cancelBandStatusNotification()
+07-13 22:54:20.594  23254-23294/com.jawbone.upopen I/UPOPEN﹕ BandManager >>> onBandEvent >>> 	where > PairingFragment
+07-13 22:54:20.599  23254-23254/com.jawbone.upopen D/UPOPEN﹕ PAIR >>> AbstractPairingFragment preProcessPairingEvents:start
+07-13 22:54:20.599  23254-23254/com.jawbone.upopen D/UPOPEN﹕ PAIR >>> AbstractPairingFragment preProcessPairingEvents:lookingAnimationLock
+07-13 22:54:20.599  23254-23254/com.jawbone.upopen D/UPOPEN﹕ PAIR >>> AbstractPairingFragment preProcessPairingEvents:processBandEvent()
+07-13 22:54:20.599  23254-23254/com.jawbone.upopen D/UPOPEN﹕ PAIR >>> AbstractPairingFragment upBandMessage UNKNOWN
+07-13 22:54:20.599  23254-23294/com.jawbone.upopen I/UPOPEN﹕ BandManager >>> releaseWakeLock >>> (0) > com.jawbone.up.bands.BandManager$2.run(BandManager.java:656)
+07-13 22:54:20.604  23254-24902/com.jawbone.upopen D/SecuredStream﹕ 83 xor 83 = 00
+07-13 22:54:20.619  23254-23265/com.jawbone.upopen D/BluetoothGatt﹕ onNotify() - Device=E9:7C:2F:27:15:00 UUID=151c1002-4580-4111-9ca1-5056f3454fbc
+07-13 22:54:20.619  23254-23265/com.jawbone.upopen D/UPOPEN﹕ StreamService >>> onCharacteristicChanged > 
+	n >> (151c1002-4580-4111-9ca1-5056f3454fbc) > 0C910A9976A7DEE7E5941BA8B7F370B02583A9D0
+07-13 22:54:20.629  23254-24902/com.jawbone.upopen D/UPOPEN﹕ StreamService >>> readFromDevice > UserModeResponse > 
+	f >> (0, 63, 0) > 0xc8
+	g >> (1, 63, 0) > 0x00
+	h >> (2, 63, 0) > 0xf4
+	i >> (3, 63, 0) > 0x01
+	c >> (4, 63, 0) > 0x00
+	k >> (4, 63, 0) > 00
+07-13 22:54:20.629  23254-24902/com.jawbone.upopen I/UPOPEN﹕ SpartaDevice >>> UserModeResponse > 
+	f >> (0, 63, 0) > 0xc8
+	g >> (1, 63, 0) > 0x00
+	h >> (2, 63, 0) > 0xf4
+	i >> (3, 63, 0) > 0x01
+	c >> (4, 63, 0) > 0x00
+	k >> (4, 63, 0) > 00
+07-13 22:54:20.634  23254-24902/com.jawbone.upopen I/UPOPEN﹕ DeviceManager >>> RawDeviceEvent >>> COMMAND_SYNC_END
+07-13 22:54:20.634  23254-23289/com.jawbone.upopen I/UPOPEN﹕ DeviceManager >>> onDeviceEvent >>> what > COMMAND_SYNC_END
+07-13 22:54:20.634  23254-23289/com.jawbone.upopen I/UPOPEN﹕ DeviceManager >>> onDeviceEvent >>> 	where > com.jawbone.up.bands.BandManager$5
+07-13 22:54:20.644  23254-23289/com.jawbone.upopen D/UPOPEN﹕ Band >>> createFrom > firmwareVersion = 1.1.20
+07-13 22:54:20.644  23254-23289/com.jawbone.upopen D/UPOPEN﹕ BandManager >>> Serial no =71250504E06BF038
+07-13 22:54:20.644  23254-24902/com.jawbone.upopen D/SecuredStream﹕ C0C81513 xor 3EC8E613 = FE00F300
+07-13 22:54:20.644  23254-23289/com.jawbone.upopen D/UPOPEN﹕ BandManager >>> SLP band char =8
+07-13 22:54:20.644  23254-23289/com.jawbone.upopen I/UPOPEN﹕ BandManager >>> createBand > Got band from cache: BandSparta
+07-13 22:54:20.644  23254-23289/com.jawbone.upopen D/UPOPEN﹕ BandManager >>> UP3SpartaEvent: COMMAND_SYNC_END
+07-13 22:54:20.659  23254-23289/com.jawbone.upopen I/UPOPEN﹕ BandManager >>> acquireWakeLock >>> (1) > com.jawbone.up.bands.BandManager.a(BandManager.java:522)
+07-13 22:54:20.659  23254-23294/com.jawbone.upopen I/UPOPEN﹕ BandManager >>> onBandEvent >>> what > UNKNOWN
+07-13 22:54:20.659  23254-23294/com.jawbone.upopen I/UPOPEN﹕ BandManager >>> onBandEvent >>> 	where > UPStatusBarNotification
+07-13 22:54:20.664  23254-23294/com.jawbone.upopen D/UPOPEN﹕ com.jawbone.up.bands.BandUtils >>> getBandStatusIcon, event = UNKNOWN and band = Band > BandSparta
+    bid: 71250504E06BF038
+    name: Stefano's UP2
+    battery: 8%
+    event: UNKNOWN
+07-13 22:54:20.664  23254-23294/com.jawbone.upopen D/UPOPEN﹕ up.Armstrong.UPStatusBarNotification >>> updateNotificationIcon()
+07-13 22:54:20.664  23254-23294/com.jawbone.upopen D/UPOPEN﹕ UPService >>> setBandStateChangeListener() iconId = 2130838794
+07-13 22:54:20.664  23254-23294/com.jawbone.upopen D/UPOPEN﹕ UPService >>> updateBandStatusNotificationIcon()
+07-13 22:54:20.664  23254-23294/com.jawbone.upopen W/UPOPEN﹕ BandManager >>> getBand > Serial is null or empty
+07-13 22:54:20.664  23254-23294/com.jawbone.upopen D/UPOPEN﹕ UPService >>> cancelBandStatusNotification()
+07-13 22:54:20.664  23254-23294/com.jawbone.upopen I/UPOPEN﹕ BandManager >>> onBandEvent >>> 	where > PairingFragment
+07-13 22:54:20.664  23254-23254/com.jawbone.upopen D/UPOPEN﹕ PAIR >>> AbstractPairingFragment preProcessPairingEvents:start
+07-13 22:54:20.669  23254-23254/com.jawbone.upopen D/UPOPEN﹕ PAIR >>> AbstractPairingFragment preProcessPairingEvents:lookingAnimationLock
+07-13 22:54:20.669  23254-23254/com.jawbone.upopen D/UPOPEN﹕ PAIR >>> AbstractPairingFragment preProcessPairingEvents:processBandEvent()
+07-13 22:54:20.669  23254-23254/com.jawbone.upopen D/UPOPEN﹕ PAIR >>> AbstractPairingFragment upBandMessage UNKNOWN
+07-13 22:54:20.669  23254-23294/com.jawbone.upopen I/UPOPEN﹕ BandManager >>> releaseWakeLock >>> (0) > com.jawbone.up.bands.BandManager$2.run(BandManager.java:656)
+07-13 22:54:20.674  23254-24902/com.jawbone.upopen D/SecuredStream﹕ xor  =
+07-13 22:54:20.679  23254-24902/com.jawbone.upopen D/UPOPEN﹕ StreamService >>> readFromDevice > Response > 
+	f >> (0, 63, 0) > 0x82
+	g >> (1, 63, 0) > 0x00
+	h >> (2, 63, 0) > 0xf3
+	i >> (3, 63, 0) > 0x00
+	k >> (4, 63, 0) > null
+07-13 22:54:20.679  23254-24902/com.jawbone.upopen D/UPOPEN﹕ SpartaDevice >>> >>>>>>>>>>>>>> Error cursor set
+07-13 22:54:20.684  23254-24902/com.jawbone.upopen I/UPOPEN﹕ StreamService >>> writeOutputStream > GetStageFirmwareInfo > 
+	f >> (0, 63, 0) > 0x86
+	g >> (1, 63, 0) > 0x00
+	h >> (2, 63, 0) > 0xf2
+	i >> (3, 63, 0) > 0x00
+	d >> (4, 63, 0) > null
+07-13 22:54:20.684  23254-24902/com.jawbone.upopen D/SecuredStream﹕ 8600F200 xor 164DD906 = 904D2B06
+07-13 22:54:20.684  23254-24902/com.jawbone.upopen D/BluetoothGatt﹕ writeCharacteristic() - uuid: 151c1001-4580-4111-9ca1-5056f3454fbc
+07-13 22:54:20.689  23254-23266/com.jawbone.upopen D/BluetoothGatt﹕ onNotify() - Device=E9:7C:2F:27:15:00 UUID=151c1002-4580-4111-9ca1-5056f3454fbc
+07-13 22:54:20.689  23254-23266/com.jawbone.upopen D/UPOPEN﹕ StreamService >>> onCharacteristicChanged > 
+	n >> (151c1002-4580-4111-9ca1-5056f3454fbc) > 0DCC771F508D803241A6B55F4AD8D36F1298C087
+07-13 22:54:20.729  23254-23265/com.jawbone.upopen D/BluetoothGatt﹕ onCharacteristicWrite() - Device=E9:7C:2F:27:15:00 UUID=151c1001-4580-4111-9ca1-5056f3454fbc Status=0
+07-13 22:54:20.729  23254-23265/com.jawbone.upopen E/UPOPEN﹕ JawboneDevice >>> lastWriteStatus 2 > 0
+07-13 22:54:20.729  23254-24902/com.jawbone.upopen E/UPOPEN﹕ JawboneDevice >>> lastWriteStatus 3 > 0
+07-13 22:54:20.729  23254-24902/com.jawbone.upopen D/SecuredStream﹕ CB2B2584 xor F92B258A = 3200000E
+07-13 22:54:20.729  23254-23290/com.jawbone.upopen W/UPOPEN﹕ StreamService >>> writeOutputStream > Transaction is null
+07-13 22:54:20.729  23254-24902/com.jawbone.upopen D/SecuredStream﹕ generateSeed > E8C205460E9D686C708D29CD09D3E295
+07-13 22:54:20.734  23254-24902/com.jawbone.upopen D/SecuredStream﹕ F60DC280618A3D536150460E9D68 xor F70D9B80618A36E8C205460E9D68 = 0100590000000BBBA35500000000
+07-13 22:54:20.744  23254-24902/com.jawbone.upopen D/UPOPEN﹕ StreamService >>> readFromDevice > EpochResponse > 
+	f >> (0, 63, 0) > 0x32
+	g >> (1, 63, 0) > 0x00
+	h >> (2, 63, 0) > 0x00
+	i >> (3, 63, 0) > 0x0e
+	c >> (4, 63, 0) > 1
+	k >> (4, 63, 0) > 0100590000000BBBA35500000000
+	d >> (6, 63, 0) > 590000000BBBA35500000000
+EpochEntry > 
+	c >> (0, 63, 0) > 89
+	d >> (4, 63, 0) > 1436793611
+	e >> (8, 63, 0) > 0
+07-13 22:54:20.744  23254-24902/com.jawbone.upopen D/UPOPEN﹕ SpartaDevice >>> Add New Epochs:
+07-13 22:54:20.749  23254-24902/com.jawbone.upopen I/UPOPEN﹕ SpartaDevice >>> EpochResponse > 
+	f >> (0, 63, 0) > 0x32
+	g >> (1, 63, 0) > 0x00
+	h >> (2, 63, 0) > 0x00
+	i >> (3, 63, 0) > 0x0e
+	c >> (4, 63, 0) > 1
+	k >> (4, 63, 0) > 0100590000000BBBA35500000000
+	d >> (6, 63, 0) > 590000000BBBA35500000000
+EpochEntry > 
+	c >> (0, 63, 0) > 89
+	d >> (4, 63, 0) > 1436793611
+	e >> (8, 63, 0) > 0
+07-13 22:54:20.754  23254-24902/com.jawbone.upopen E/UPOPEN﹕ TABLE epochs >>> Failed to update table where user_xid = RGaCBFg9CsBjZzCUMeT78A and serialHash = 1347440134 and number = 89
+07-13 22:54:20.799  23254-24902/com.jawbone.upopen D/SecuredStream﹕ EF708D3F xor 6C708D29 = 83000016
+07-13 22:54:20.799  23254-24902/com.jawbone.upopen D/SecuredStream﹕ generateSeed > 5CD440A63D82B47CE334FB68FA0589BD
+07-13 22:54:20.799  23254-24902/com.jawbone.upopen D/SecuredStream﹕ generateSeed > E7D7941BA6B6F329B02583A26B6F221F
+07-13 22:54:20.799  23254-24902/com.jawbone.upopen D/SecuredStream﹕ E26C8AE28954E440C858EEDB0C866B910A9976A7DEE7 xor CD09D3E2955CD440A63D82B47CE334FB68FA0589BDE7 = 2F6559001C0830006E656C6F70655F6A6263732E6300
+07-13 22:54:20.809  23254-24902/com.jawbone.upopen D/UPOPEN﹕ StreamService >>> readFromDevice > Response > 
+	f >> (0, 63, 0) > 0x83
+	g >> (1, 63, 0) > 0x00
+	h >> (2, 63, 0) > 0x00
+	i >> (3, 63, 0) > 0x16
+	k >> (4, 63, 0) > 2F6559001C0830006E656C6F70655F6A6263732E6300
+07-13 22:54:20.889  23254-24902/com.jawbone.upopen D/UPOPEN﹕ DeviceInfo >>> active:false | user:RGaCBFg9CsBjZzCUMeT78A | id:14 | key:80A0735CBCD4610B29D36367D924CA84 | hash:1347440134 | sn:71250504E06BF038 | fw:null | address:E9:7C:2F:27:15:00 | battery:8%
+07-13 22:54:20.939  23254-24902/com.jawbone.upopen I/UPOPEN﹕ DeviceManager >>> RawDeviceEvent >>> NEW_ERROR_RECORD
+07-13 22:54:20.939  23254-23289/com.jawbone.upopen I/UPOPEN﹕ DeviceManager >>> onDeviceEvent >>> what > NEW_ERROR_RECORD
+07-13 22:54:20.939  23254-23289/com.jawbone.upopen I/UPOPEN﹕ DeviceManager >>> onDeviceEvent >>> 	where > com.jawbone.up.bands.BandManager$5
+07-13 22:54:20.944  23254-23289/com.jawbone.upopen D/UPOPEN﹕ Band >>> createFrom > firmwareVersion = 1.1.20
+07-13 22:54:20.944  23254-24902/com.jawbone.upopen D/SecuredStream﹕ E5941BA8 xor D7941BA6 = 3200000E
+07-13 22:54:20.949  23254-23289/com.jawbone.upopen D/UPOPEN﹕ BandManager >>> Serial no =71250504E06BF038
+07-13 22:54:20.949  23254-23289/com.jawbone.upopen D/UPOPEN﹕ BandManager >>> SLP band char =8
+07-13 22:54:20.949  23254-23289/com.jawbone.upopen I/UPOPEN﹕ BandManager >>> createBand > Got band from cache: BandSparta
+07-13 22:54:20.949  23254-23289/com.jawbone.upopen D/UPOPEN﹕ BandManager >>> UP3SpartaEvent: NEW_ERROR_RECORD
+07-13 22:54:20.949  23254-24902/com.jawbone.upopen D/SecuredStream﹕ generateSeed > 508D80B141A6A31C2F81D3721A34CBE9
+07-13 22:54:20.949  23254-24902/com.jawbone.upopen D/SecuredStream﹕ B7F370B02583A9D0CC771F508D80 xor B6F329B02583A26B6F221F508D80 = 0100590000000BBBA35500000000
+07-13 22:54:21.004  23254-24902/com.jawbone.upopen D/UPOPEN﹕ StreamService >>> readFromDevice > EpochResponse > 
+	f >> (0, 63, 0) > 0x32
+	g >> (1, 63, 0) > 0x00
+	h >> (2, 63, 0) > 0x00
+	i >> (3, 63, 0) > 0x0e
+	c >> (4, 63, 0) > 1
+	k >> (4, 63, 0) > 0100590000000BBBA35500000000
+	d >> (6, 63, 0) > 590000000BBBA35500000000
+EpochEntry > 
+	c >> (0, 63, 0) > 89
+	d >> (4, 63, 0) > 1436793611
+	e >> (8, 63, 0) > 0
+07-13 22:54:21.004  23254-24902/com.jawbone.upopen D/UPOPEN﹕ SpartaDevice >>> Add New Epochs:
+07-13 22:54:21.094  23254-23266/com.jawbone.upopen D/BluetoothGatt﹕ onNotify() - Device=E9:7C:2F:27:15:00 UUID=151c1002-4580-4111-9ca1-5056f3454fbc
+07-13 22:54:21.094  23254-23266/com.jawbone.upopen D/UPOPEN﹕ StreamService >>> onCharacteristicChanged > 
+	n >> (151c1002-4580-4111-9ca1-5056f3454fbc) > 0E169BC4DABD8940212F00ED2709D1324C16DEFC
+07-13 22:54:21.099  23254-24902/com.jawbone.upopen I/UPOPEN﹕ SpartaDevice >>> EpochResponse > 
+	f >> (0, 63, 0) > 0x32
+	g >> (1, 63, 0) > 0x00
+	h >> (2, 63, 0) > 0x00
+	i >> (3, 63, 0) > 0x0e
+	c >> (4, 63, 0) > 1
+	k >> (4, 63, 0) > 0100590000000BBBA35500000000
+	d >> (6, 63, 0) > 590000000BBBA35500000000
+EpochEntry > 
+	c >> (0, 63, 0) > 89
+	d >> (4, 63, 0) > 1436793611
+	e >> (8, 63, 0) > 0
+07-13 22:54:21.104  23254-23265/com.jawbone.upopen D/BluetoothGatt﹕ onNotify() - Device=E9:7C:2F:27:15:00 UUID=151c1002-4580-4111-9ca1-5056f3454fbc
+07-13 22:54:21.104  23254-23265/com.jawbone.upopen D/UPOPEN﹕ StreamService >>> onCharacteristicChanged > 
+	n >> (151c1002-4580-4111-9ca1-5056f3454fbc) > 0FD1E5CA3D164385D3794D2F8719C65CA4E37946
+07-13 22:54:21.139  23254-23289/com.jawbone.upopen I/UPOPEN﹕ BandManager >>> acquireWakeLock >>> (1) > com.jawbone.up.bands.BandManager.a(BandManager.java:522)
+07-13 22:54:21.139  23254-23294/com.jawbone.upopen I/UPOPEN﹕ BandManager >>> onBandEvent >>> what > UNKNOWN
+07-13 22:54:21.139  23254-23294/com.jawbone.upopen I/UPOPEN﹕ BandManager >>> onBandEvent >>> 	where > UPStatusBarNotification
+07-13 22:54:21.139  23254-23294/com.jawbone.upopen D/UPOPEN﹕ com.jawbone.up.bands.BandUtils >>> getBandStatusIcon, event = UNKNOWN and band = Band > BandSparta
+    bid: 71250504E06BF038
+    name: Stefano's UP2
+    battery: 8%
+    event: UNKNOWN
+07-13 22:54:21.144  23254-23294/com.jawbone.upopen D/UPOPEN﹕ up.Armstrong.UPStatusBarNotification >>> updateNotificationIcon()
+07-13 22:54:21.144  23254-23294/com.jawbone.upopen D/UPOPEN﹕ UPService >>> setBandStateChangeListener() iconId = 2130838794
+07-13 22:54:21.144  23254-23294/com.jawbone.upopen D/UPOPEN﹕ UPService >>> updateBandStatusNotificationIcon()
+07-13 22:54:21.144  23254-23294/com.jawbone.upopen W/UPOPEN﹕ BandManager >>> getBand > Serial is null or empty
+07-13 22:54:21.144  23254-23294/com.jawbone.upopen D/UPOPEN﹕ UPService >>> cancelBandStatusNotification()
+07-13 22:54:21.144  23254-23294/com.jawbone.upopen I/UPOPEN﹕ BandManager >>> onBandEvent >>> 	where > PairingFragment
+07-13 22:54:21.144  23254-23254/com.jawbone.upopen D/UPOPEN﹕ PAIR >>> AbstractPairingFragment preProcessPairingEvents:start
+07-13 22:54:21.144  23254-23254/com.jawbone.upopen D/UPOPEN﹕ PAIR >>> AbstractPairingFragment preProcessPairingEvents:lookingAnimationLock
+07-13 22:54:21.144  23254-23254/com.jawbone.upopen D/UPOPEN﹕ PAIR >>> AbstractPairingFragment preProcessPairingEvents:processBandEvent()
+07-13 22:54:21.144  23254-23254/com.jawbone.upopen D/UPOPEN﹕ PAIR >>> AbstractPairingFragment upBandMessage UNKNOWN
+07-13 22:54:21.149  23254-23294/com.jawbone.upopen I/UPOPEN﹕ BandManager >>> releaseWakeLock >>> (0) > com.jawbone.up.bands.BandManager$2.run(BandManager.java:656)
+07-13 22:54:21.174  23254-24902/com.jawbone.upopen D/SecuredStream﹕ 3241A6B5 xor B141A6A3 = 83000016
+07-13 22:54:21.174  23254-24902/com.jawbone.upopen D/SecuredStream﹕ generateSeed > 72C4B4A8D2FD2F42406CC34409E3324C
+07-13 22:54:21.179  23254-24902/com.jawbone.upopen D/SecuredStream﹕ 5F4AD8D36F1298C087169BC4DABD8940212F00ED2709 xor 1C2F81D3721A34CBE972C4B4A8D2FD2F42406CC34409 = 436559001D08AC0B6E645F70726F746F636F6C2E6300
+07-13 22:54:21.179  23254-23266/com.jawbone.upopen D/BluetoothGatt﹕ onNotify() - Device=E9:7C:2F:27:15:00 UUID=151c1002-4580-4111-9ca1-5056f3454fbc
+07-13 22:54:21.179  23254-23266/com.jawbone.upopen D/UPOPEN﹕ StreamService >>> onCharacteristicChanged > 
+	n >> (151c1002-4580-4111-9ca1-5056f3454fbc) > 10756961B191D5BF729B842FFF928AA410FAA8FF
+07-13 22:54:21.184  23254-24902/com.jawbone.upopen D/UPOPEN﹕ StreamService >>> readFromDevice > Response > 
+	f >> (0, 63, 0) > 0x83
+	g >> (1, 63, 0) > 0x00
+	h >> (2, 63, 0) > 0x00
+	i >> (3, 63, 0) > 0x16
+	k >> (4, 63, 0) > 436559001D08AC0B6E645F70726F746F636F6C2E6300
+07-13 22:54:21.234  23254-24902/com.jawbone.upopen D/UPOPEN﹕ DeviceInfo >>> active:false | user:RGaCBFg9CsBjZzCUMeT78A | id:14 | key:80A0735CBCD4610B29D36367D924CA84 | hash:1347440134 | sn:71250504E06BF038 | fw:null | address:E9:7C:2F:27:15:00 | battery:8%
+07-13 22:54:21.254  23254-23265/com.jawbone.upopen D/BluetoothGatt﹕ onNotify() - Device=E9:7C:2F:27:15:00 UUID=151c1002-4580-4111-9ca1-5056f3454fbc
+07-13 22:54:21.254  23254-23265/com.jawbone.upopen D/UPOPEN﹕ StreamService >>> onCharacteristicChanged > 
+	n >> (151c1002-4580-4111-9ca1-5056f3454fbc) > 11E4A23A20C09CA247700FDC03152EB7A2297B43
+07-13 22:54:21.269  23254-24902/com.jawbone.upopen I/UPOPEN﹕ DeviceManager >>> RawDeviceEvent >>> NEW_ERROR_RECORD
+07-13 22:54:21.269  23254-23289/com.jawbone.upopen I/UPOPEN﹕ DeviceManager >>> onDeviceEvent >>> what > NEW_ERROR_RECORD
+07-13 22:54:21.269  23254-24902/com.jawbone.upopen D/SecuredStream﹕ generateSeed > 18DFFC88E5CA3D1DF82686794D2F879A
+07-13 22:54:21.269  23254-24902/com.jawbone.upopen D/SecuredStream﹕ D1324C16 xor E3324C18 = 3200000E
+07-13 22:54:21.269  23254-23289/com.jawbone.upopen I/UPOPEN﹕ DeviceManager >>> onDeviceEvent >>> 	where > com.jawbone.up.bands.BandManager$5
+07-13 22:54:21.274  23254-24902/com.jawbone.upopen D/SecuredStream﹕ DEFCD1E5CA3D164385D3794D2F87 xor DFFC88E5CA3D1DF82686794D2F87 = 0100590000000BBBA35500000000
+07-13 22:54:21.274  23254-23289/com.jawbone.upopen D/UPOPEN﹕ Band >>> createFrom > firmwareVersion = 1.1.20
+07-13 22:54:21.274  23254-23289/com.jawbone.upopen D/UPOPEN﹕ BandManager >>> Serial no =71250504E06BF038
+07-13 22:54:21.274  23254-23289/com.jawbone.upopen D/UPOPEN﹕ BandManager >>> SLP band char =8
+07-13 22:54:21.274  23254-23289/com.jawbone.upopen I/UPOPEN﹕ BandManager >>> createBand > Got band from cache: BandSparta
+07-13 22:54:21.274  23254-23289/com.jawbone.upopen D/UPOPEN﹕ BandManager >>> UP3SpartaEvent: NEW_ERROR_RECORD
+07-13 22:54:21.289  23254-24902/com.jawbone.upopen D/UPOPEN﹕ StreamService >>> readFromDevice > EpochResponse > 
+	f >> (0, 63, 0) > 0x32
+	g >> (1, 63, 0) > 0x00
+	h >> (2, 63, 0) > 0x00
+	i >> (3, 63, 0) > 0x0e
+	c >> (4, 63, 0) > 1
+	k >> (4, 63, 0) > 0100590000000BBBA35500000000
+	d >> (6, 63, 0) > 590000000BBBA35500000000
+EpochEntry > 
+	c >> (0, 63, 0) > 89
+	d >> (4, 63, 0) > 1436793611
+	e >> (8, 63, 0) > 0
+07-13 22:54:21.289  23254-24902/com.jawbone.upopen D/UPOPEN﹕ SpartaDevice >>> Add New Epochs:
+07-13 22:54:21.304  23254-24902/com.jawbone.upopen I/UPOPEN﹕ SpartaDevice >>> EpochResponse > 
+	f >> (0, 63, 0) > 0x32
+	g >> (1, 63, 0) > 0x00
+	h >> (2, 63, 0) > 0x00
+	i >> (3, 63, 0) > 0x0e
+	c >> (4, 63, 0) > 1
+	k >> (4, 63, 0) > 0100590000000BBBA35500000000
+	d >> (6, 63, 0) > 590000000BBBA35500000000
+EpochEntry > 
+	c >> (0, 63, 0) > 89
+	d >> (4, 63, 0) > 1436793611
+	e >> (8, 63, 0) > 0
+07-13 22:54:21.329  23254-23266/com.jawbone.upopen D/BluetoothGatt﹕ onNotify() - Device=E9:7C:2F:27:15:00 UUID=151c1002-4580-4111-9ca1-5056f3454fbc
+07-13 22:54:21.329  23254-23266/com.jawbone.upopen D/UPOPEN﹕ StreamService >>> onCharacteristicChanged > 
+	n >> (151c1002-4580-4111-9ca1-5056f3454fbc) > 12E12EB7BE2E7AFAF671508830E5C1C706EB4617
+07-13 22:54:21.374  23254-24902/com.jawbone.upopen D/SecuredStream﹕ generateSeed > C65CB22D1C1F7577698191BBDA1EF4F4
+07-13 22:54:21.379  23254-24902/com.jawbone.upopen D/SecuredStream﹕ 19C65CA4 xor 9AC65CB2 = 83000016
+07-13 22:54:21.379  23254-24902/com.jawbone.upopen D/SecuredStream﹕ generateSeed > 4AA0F8E8C763D4CBFF1AA2C8643437B0
+07-13 22:54:21.379  23254-24902/com.jawbone.upopen D/SecuredStream﹕ E37946756961B191D5BF729B842FFF928AA410FAA8FF xor 2D1C1F7577698191BBDA1EF4F44AA0F8E8C763D4CBFF = CE6559001E0830006E656C6F70655F6A6263732E6300
+07-13 22:54:21.384  23254-24902/com.jawbone.upopen D/UPOPEN﹕ StreamService >>> readFromDevice > Response > 
+	f >> (0, 63, 0) > 0x83
+	g >> (1, 63, 0) > 0x00
+	h >> (2, 63, 0) > 0x00
+	i >> (3, 63, 0) > 0x16
+	k >> (4, 63, 0) > CE6559001E0830006E656C6F70655F6A6263732E6300
+07-13 22:54:21.414  23254-23289/com.jawbone.upopen I/UPOPEN﹕ BandManager >>> acquireWakeLock >>> (1) > com.jawbone.up.bands.BandManager.a(BandManager.java:522)
+07-13 22:54:21.414  23254-23294/com.jawbone.upopen I/UPOPEN﹕ BandManager >>> onBandEvent >>> what > UNKNOWN
+07-13 22:54:21.414  23254-23294/com.jawbone.upopen I/UPOPEN﹕ BandManager >>> onBandEvent >>> 	where > UPStatusBarNotification
+07-13 22:54:21.414  23254-23294/com.jawbone.upopen D/UPOPEN﹕ com.jawbone.up.bands.BandUtils >>> getBandStatusIcon, event = UNKNOWN and band = Band > BandSparta
+    bid: 71250504E06BF038
+    name: Stefano's UP2
+    battery: 8%
+    event: UNKNOWN
+07-13 22:54:21.419  23254-23294/com.jawbone.upopen D/UPOPEN﹕ up.Armstrong.UPStatusBarNotification >>> updateNotificationIcon()
+07-13 22:54:21.419  23254-23294/com.jawbone.upopen D/UPOPEN﹕ UPService >>> setBandStateChangeListener() iconId = 2130838794
+07-13 22:54:21.419  23254-23294/com.jawbone.upopen D/UPOPEN﹕ UPService >>> updateBandStatusNotificationIcon()
+07-13 22:54:21.419  23254-23294/com.jawbone.upopen W/UPOPEN﹕ BandManager >>> getBand > Serial is null or empty
+07-13 22:54:21.419  23254-23294/com.jawbone.upopen D/UPOPEN﹕ UPService >>> cancelBandStatusNotification()
+07-13 22:54:21.419  23254-23294/com.jawbone.upopen I/UPOPEN﹕ BandManager >>> onBandEvent >>> 	where > PairingFragment
+07-13 22:54:21.419  23254-23254/com.jawbone.upopen D/UPOPEN﹕ PAIR >>> AbstractPairingFragment preProcessPairingEvents:start
+07-13 22:54:21.419  23254-23254/com.jawbone.upopen D/UPOPEN﹕ PAIR >>> AbstractPairingFragment preProcessPairingEvents:lookingAnimationLock
+07-13 22:54:21.419  23254-23254/com.jawbone.upopen D/UPOPEN﹕ PAIR >>> AbstractPairingFragment preProcessPairingEvents:processBandEvent()
+07-13 22:54:21.419  23254-23254/com.jawbone.upopen D/UPOPEN﹕ PAIR >>> AbstractPairingFragment upBandMessage UNKNOWN
+07-13 22:54:21.419  23254-23294/com.jawbone.upopen I/UPOPEN﹕ BandManager >>> releaseWakeLock >>> (0) > com.jawbone.up.bands.BandManager$2.run(BandManager.java:656)
+07-13 22:54:21.439  23254-23265/com.jawbone.upopen D/BluetoothGatt﹕ onNotify() - Device=E9:7C:2F:27:15:00 UUID=151c1002-4580-4111-9ca1-5056f3454fbc
+07-13 22:54:21.439  23254-23265/com.jawbone.upopen D/UPOPEN﹕ StreamService >>> onCharacteristicChanged > 
+	n >> (151c1002-4580-4111-9ca1-5056f3454fbc) > 139E4AB106248CE95DC36F61C23C605947691FC0
+07-13 22:54:21.474  23254-24902/com.jawbone.upopen D/UPOPEN﹕ DeviceInfo >>> active:false | user:RGaCBFg9CsBjZzCUMeT78A | id:14 | key:80A0735CBCD4610B29D36367D924CA84 | hash:1347440134 | sn:71250504E06BF038 | fw:null | address:E9:7C:2F:27:15:00 | battery:8%
+07-13 22:54:21.514  23254-24902/com.jawbone.upopen I/UPOPEN﹕ DeviceManager >>> RawDeviceEvent >>> NEW_ERROR_RECORD
+07-13 22:54:21.514  23254-24902/com.jawbone.upopen D/SecuredStream﹕ E4A23A20 xor 1AA2C864 = FE00F244
+07-13 22:54:21.514  23254-23289/com.jawbone.upopen I/UPOPEN﹕ DeviceManager >>> onDeviceEvent >>> what > NEW_ERROR_RECORD
+07-13 22:54:21.514  23254-23289/com.jawbone.upopen I/UPOPEN﹕ DeviceManager >>> onDeviceEvent >>> 	where > com.jawbone.up.bands.BandManager$5
+07-13 22:54:21.519  23254-23266/com.jawbone.upopen D/BluetoothGatt﹕ onNotify() - Device=E9:7C:2F:27:15:00 UUID=151c1002-4580-4111-9ca1-5056f3454fbc
+07-13 22:54:21.519  23254-23289/com.jawbone.upopen D/UPOPEN﹕ Band >>> createFrom > firmwareVersion = 1.1.20
+07-13 22:54:21.519  23254-23289/com.jawbone.upopen D/UPOPEN﹕ BandManager >>> Serial no =71250504E06BF038
+07-13 22:54:21.519  23254-23289/com.jawbone.upopen D/UPOPEN﹕ BandManager >>> SLP band char =8
+07-13 22:54:21.519  23254-23289/com.jawbone.upopen I/UPOPEN﹕ BandManager >>> createBand > Got band from cache: BandSparta
+07-13 22:54:21.519  23254-23289/com.jawbone.upopen D/UPOPEN﹕ BandManager >>> UP3SpartaEvent: NEW_ERROR_RECORD
+07-13 22:54:21.519  23254-23266/com.jawbone.upopen D/UPOPEN﹕ StreamService >>> onCharacteristicChanged > 
+	n >> (151c1002-4580-4111-9ca1-5056f3454fbc) > 14C4E68BF82FAEB6DBBAFD28BADB0C440B42D56B
+07-13 22:54:21.519  23254-24902/com.jawbone.upopen D/SecuredStream﹕ generateSeed > 6AB7C0132009B808A1B5FB6E672EB7BE
+07-13 22:54:21.519  23254-24902/com.jawbone.upopen D/SecuredStream﹕ generateSeed > 2E7AFAF671508830E5C1C706EB46179E
+07-13 22:54:21.519  23254-24902/com.jawbone.upopen D/SecuredStream﹕ generateSeed > 4AB106248CE95DC36F61C23C60594769
+07-13 22:54:21.519  23254-24902/com.jawbone.upopen D/SecuredStream﹕ generateSeed > 1FC0C4E68BF82FAEB6DBBAFD28CBE909
+07-13 22:54:21.524  23254-24902/com.jawbone.upopen D/SecuredStream﹕ generateSeed > 443942D5659CCE5468D425D4DEAC9200
+07-13 22:54:21.524  23254-24902/com.jawbone.upopen D/SecuredStream﹕ C09CA247700FDC03152EB7A2297B43E12EB7BE2E7AFAF671508830E5C1C706EB46179E4AB106248CE95DC36F61C23C605947691FC0C4E68BF82FAEB6DBBAFD28BADB0C44 xor 3437B06AB7C0132009B808A1B5FB6E672EB7BE2E7AFAF671508830E5C1C706EB46179E4AB106248CE95DC36F61C23C605947691FC0C4E68BF82FAEB6DBBAFD28CBE90944 = F4AB122DC7CFCF231C96BF039C802D8600000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000071320500
+07-13 22:54:21.534  23254-24902/com.jawbone.upopen D/UPOPEN﹕ StreamService >>> readFromDevice > GetStageFirmwareInfoResponse > 
+	f >> (0, 63, 0) > 0x86
+	g >> (1, 63, 0) > 0x00
+	h >> (2, 63, 0) > 0xf2
+	i >> (3, 63, 0) > 0x44
+	c >> (4, 63, 0) > F4AB122DC7CFCF231C96BF039C802D86000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+	k >> (4, 63, 0) > F4AB122DC7CFCF231C96BF039C802D8600000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000071320500
+	d >> (68, 63, 0) > 340593
+07-13 22:54:21.534  23254-24902/com.jawbone.upopen D/UPOPEN﹕ SpartaDevice >>> >>>>>>>>>>>>>> GetStageFirmwareInfo response received
+07-13 22:54:21.534  23254-24902/com.jawbone.upopen I/UPOPEN﹕ JawboneDevice >>> New device state > DevicePaired
+07-13 22:54:21.534  23254-24902/com.jawbone.upopen I/UPOPEN﹕ DeviceManager >>> RawDeviceEvent >>> PAIRED
+07-13 22:54:21.534  23254-24902/com.jawbone.upopen I/UPOPEN﹕ DeviceManager >>> RawDeviceEvent >>> CONNECTED
+07-13 22:54:21.534  23254-24902/com.jawbone.upopen D/SecuredStream﹕ 0B42D56B xor 3942D565 = 3200000E
+07-13 22:54:21.589  23254-23265/com.jawbone.upopen D/BluetoothGatt﹕ onNotify() - Device=E9:7C:2F:27:15:00 UUID=151c1002-4580-4111-9ca1-5056f3454fbc
+07-13 22:54:21.589  23254-23265/com.jawbone.upopen D/UPOPEN﹕ StreamService >>> onCharacteristicChanged > 
+	n >> (151c1002-4580-4111-9ca1-5056f3454fbc) > 159DCE0D68D425DF650FC7000C59533359EA5D8A
+07-13 22:54:21.594  23254-24902/com.jawbone.upopen D/SecuredStream﹕ generateSeed > 0C5953B059EA4B6B7622F44FD5834063
+07-13 22:54:21.594  23254-24902/com.jawbone.upopen D/SecuredStream﹕ 9DCE0D68D425DF650FC7000C5953 xor 9CCE5468D425D4DEAC92000C5953 = 0100590000000BBBA35500000000
+07-13 22:54:21.604  23254-24902/com.jawbone.upopen D/UPOPEN﹕ StreamService >>> readFromDevice > EpochResponse > 
+	f >> (0, 63, 0) > 0x32
+	g >> (1, 63, 0) > 0x00
+	h >> (2, 63, 0) > 0x00
+	i >> (3, 63, 0) > 0x0e
+	c >> (4, 63, 0) > 1
+	k >> (4, 63, 0) > 0100590000000BBBA35500000000
+	d >> (6, 63, 0) > 590000000BBBA35500000000
+EpochEntry > 
+	c >> (0, 63, 0) > 89
+	d >> (4, 63, 0) > 1436793611
+	e >> (8, 63, 0) > 0
+07-13 22:54:21.604  23254-24902/com.jawbone.upopen D/UPOPEN﹕ SpartaDevice >>> Add New Epochs:
+07-13 22:54:21.614  23254-24902/com.jawbone.upopen I/UPOPEN﹕ SpartaDevice >>> EpochResponse > 
+	f >> (0, 63, 0) > 0x32
+	g >> (1, 63, 0) > 0x00
+	h >> (2, 63, 0) > 0x00
+	i >> (3, 63, 0) > 0x0e
+	c >> (4, 63, 0) > 1
+	k >> (4, 63, 0) > 0100590000000BBBA35500000000
+	d >> (6, 63, 0) > 590000000BBBA35500000000
+EpochEntry > 
